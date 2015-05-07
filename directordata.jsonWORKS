@@ -1,0 +1,164 @@
+{
+    "directorsArray":[{
+            "directorName":"Bob Egle",
+            "directorBio":"Founding Tell came naturally to Bob, a steady film and video craftsman with a keen eye for detail, a genuine love of collaboration, and a way of connecting with people.<br/>His director’s reel showcases these talents perfectly, featuring great performances within an impressive range of on-camera subjects: regular folks, seasoned actors, well-known athletes and celebrities, and corporate executives. That same skill set walks beautifully to his role as Tell’s Creative Manager, where he gets the most out of his hand-picked team of directors, cinematographers, producers, editors, and motion graphic artists.<br/>Born and raised on the East Coast, Bob began his commercial film career over 20 years ago in New York City. He now calls Columbus, Ohio home, where he lives with his wife, Liane, their two kids, Lauren and Dylan, and two crazy dogs named Roxie and Ringo.",
+            "directorHeadshot":"images/director/faces/faceBob.jpg",
+            "directorVids":[
+				{
+					"vidTitle":"Tests For the New Year, Part 1",
+					"vidAbout":"Houston, that may have seemed like a very long final phase. The autotargeting was taking us right into a ... crater, with a large number of big boulders and rocks ... and it required ... flying manually over the rock field to find a reasonably good area.",
+					"vidPromoImage":"images/director/TellVid1.jpg",
+					"vidVimeoLink":"http://player.vimeo.com/video/55775999",            	
+					"vidPageOrder":"1",
+					"vidDirectorOrder":"1"	
+				}
+            ]
+        },
+        {
+            "directorName":"Director Jill",
+            "directorBio":"this is a bio for a director. Something, somehow, of some sort, somewhere.",
+            "directorHeadshot":"images/director/faces/faceJill.jpg",          
+            "directorVids":[
+				{
+					"vidTitle":"Tests For the New Year, Part 1",
+					"vidAbout":"Houston, that may have seemed like a very long final phase. The autotargeting was taking us right into a ... crater, with a large number of big boulders and rocks ... and it required ... flying manually over the rock field to find a reasonably good area.",
+					"vidPromoImage":"images/director/TellVid2.jpg",
+					"vidVimeoLink":"http://player.vimeo.com/video/55775999",            	
+					"vidPageOrder":"1",
+					"vidDirectorOrder":"1"	
+				},
+				{
+					"vidTitle":"Tests For the New Year, Part 2",
+					"vidAbout":"Houston, that may have seemed like a very long final phase. The autotargeting was taking us right into a ... crater, with a large number of big boulders and rocks ... and it required ... flying manually over the rock field to find a reasonably good area.",
+					"vidPromoImage":"images/director/TellVid3.jpg",
+					"vidVimeoLink":"http://player.vimeo.com/video/54328375",            	
+					"vidPageOrder":"2",
+					"vidDirectorOrder":"2"	
+				},
+				{
+					"vidTitle":"Tests For the New Year, Part 3",
+					"vidAbout":"Houston, that may have seemed like a very long final phase. The autotargeting was taking us right into a ... crater, with a large number of big boulders and rocks ... and it required ... flying manually over the rock field to find a reasonably good area.",
+					"vidPromoImage":"images/director/TellVid4.jpg",
+					"vidVimeoLink":"http://player.vimeo.com/video/54322056",            	
+					"vidPageOrder":"3",
+					"vidDirectorOrder":"3"	
+				}
+            ]
+        },
+        {
+            "directorName":"Director Bob",
+            "directorBio":"this is a bio for a director. Something, somehow, of some sort, somewhere.",
+            "directorHeadshot":"images/director/faces/faceBob.jpg",
+            "directorVids":[
+				{
+					"vidTitle":"Tests For the New Year, Part 1",
+					"vidAbout":"Houston, that may have seemed like a very long final phase. The autotargeting was taking us right into a ... crater, with a large number of big boulders and rocks ... and it required ... flying manually over the rock field to find a reasonably good area.",
+					"vidPromoImage":"images/director/TellVid5.jpg",
+					"vidVimeoLink":"http://player.vimeo.com/video/54328375",            	
+					"vidPageOrder":"1",
+					"vidDirectorOrder":"1"	
+				},
+				{
+					"vidTitle":"Tests For the New Year, Part 2",
+					"vidAbout":"Houston, that may have seemed like a very long final phase. The autotargeting was taking us right into a ... crater, with a large number of big boulders and rocks ... and it required ... flying manually over the rock field to find a reasonably good area.",
+					"vidPromoImage":"images/director/TellVid6.jpg",
+					"vidVimeoLink":"http://player.vimeo.com/video/55775999",            	
+					"vidPageOrder":"2",
+					"vidDirectorOrder":"2"	
+				}
+            ]
+        },
+        {
+            "directorName":"Director Jen",
+            "directorBio":"this is a bio for a director. Something, somehow, of some sort, somewhere.",
+            "directorHeadshot":"images/director/faces/faceJen.jpg",
+            "directorVids":[
+				{
+					"vidTitle":"Tests For the New Year, Part 1",
+					"vidAbout":"Houston, that may have seemed like a very long final phase. The autotargeting was taking us right into a ... crater, with a large number of big boulders and rocks ... and it required ... flying manually over the rock field to find a reasonably good area.",
+					"vidPromoImage":"images/director/TellVid5.jpg",
+					"vidVimeoLink":"http://player.vimeo.com/video/54328375",            	
+					"vidPageOrder":"1",
+					"vidDirectorOrder":"1"	
+				},
+				{
+					"vidTitle":"Tests For the New Year, Part 2",
+					"vidAbout":"Houston, that may have seemed like a very long final phase. The autotargeting was taking us right into a ... crater, with a large number of big boulders and rocks ... and it required ... flying manually over the rock field to find a reasonably good area.",
+					"vidPromoImage":"images/director/TellVid6.jpg",
+					"vidVimeoLink":"http://player.vimeo.com/video/54322056",            	
+					"vidPageOrder":"2",
+					"vidDirectorOrder":"2"	
+				}
+            ]
+        },
+        {
+            "directorName":"Director Bob",
+            "directorBio":"Houston, that may have seemed like a very long final phase. The autotargeting was taking us right into a ... crater, with a large number of big boulders and rocks ... and it required ... flying manually over the rock field to find a reasonably good area.<br/><br/>Our posturings, our imagined self-importance, the delusion that we have some privileged position in the Universe, are challenged by this point of pale light. Our planet is a lonely speck in the great enveloping cosmic dark. In our obscurity, in all this vastness, there is no hint that help will come from elsewhere to save us from ourselves.",
+            "directorHeadshot":"images/director/faces/faceBob.jpg",
+            "directorVids":[
+				{
+					"vidTitle":"Tests For the New Year, Part 1",
+					"vidAbout":"Houston, that may have seemed like a very long final phase. The autotargeting was taking us right into a ... crater, with a large number of big boulders and rocks ... and it required ... flying manually over the rock field to find a reasonably good area.",
+					"vidPromoImage":"images/director/TellVid7.jpg",
+					"vidVimeoLink":"http://player.vimeo.com/video/55775999",            	
+					"vidPageOrder":"1",
+					"vidDirectorOrder":"1"	
+				},
+				{
+					"vidTitle":"Tests For the New Year, Part 2",
+					"vidAbout":"Houston, that may have seemed like a very long final phase. The autotargeting was taking us right into a ... crater, with a large number of big boulders and rocks ... and it required ... flying manually over the rock field to find a reasonably good area.",
+					"vidPromoImage":"images/director/TellVid8.jpg",
+					"vidVimeoLink":"http://player.vimeo.com/video/54328375",            	
+					"vidPageOrder":"2",
+					"vidDirectorOrder":"2"	
+				}
+            ]
+        },
+        {
+            "directorName":"Director Jen",
+            "directorBio":"Houston, that may have seemed like a very long final phase. The autotargeting was taking us right into a ... crater, with a large number of big boulders and rocks ... and it required ... flying manually over the rock field to find a reasonably good area.<br/><br/>Our posturings, our imagined self-importance, the delusion that we have some privileged position in the Universe, are challenged by this point of pale light. Our planet is a lonely speck in the great enveloping cosmic dark. In our obscurity, in all this vastness, there is no hint that help will come from elsewhere to save us from ourselves.",
+            "directorHeadshot":"images/director/faces/faceJen.jpg",
+            "directorVids":[
+				{
+					"vidTitle":"Tests For the New Year, Part 1",
+					"vidAbout":"Houston, that may have seemed like a very long final phase. The autotargeting was taking us right into a ... crater, with a large number of big boulders and rocks ... and it required ... flying manually over the rock field to find a reasonably good area.",
+					"vidPromoImage":"images/director/TellVid1.jpg",
+					"vidVimeoLink":"http://player.vimeo.com/video/54322056",            	
+					"vidPageOrder":"1",
+					"vidDirectorOrder":"1"	
+				},
+				{
+					"vidTitle":"Tests For the New Year, Part 2",
+					"vidAbout":"Houston, that may have seemed like a very long final phase. The autotargeting was taking us right into a ... crater, with a large number of big boulders and rocks ... and it required ... flying manually over the rock field to find a reasonably good area.",
+					"vidPromoImage":"images/director/TellVid2.jpg",
+					"vidVimeoLink":"http://player.vimeo.com/video/54328375",            	
+					"vidPageOrder":"2",
+					"vidDirectorOrder":"2"	
+				}
+            ]
+        },
+        {
+            "directorName":"Director Jill",
+            "directorBio":"Houston, that may have seemed like a very long final phase. The autotargeting was taking us right into a ... crater, with a large number of big boulders and rocks ... and it required ... flying manually over the rock field to find a reasonably good area.<br/><br/>Our posturings, our imagined self-importance, the delusion that we have some privileged position in the Universe, are challenged by this point of pale light. Our planet is a lonely speck in the great enveloping cosmic dark. In our obscurity, in all this vastness, there is no hint that help will come from elsewhere to save us from ourselves.",
+            "directorHeadshot":"images/director/faces/faceJill.jpg",
+            "directorVids":[
+				{
+					"vidTitle":"Tests For the New Year, Part 1",
+					"vidAbout":"Houston, that may have seemed like a very long final phase. The autotargeting was taking us right into a ... crater, with a large number of big boulders and rocks ... and it required ... flying manually over the rock field to find a reasonably good area.",
+					"vidPromoImage":"images/director/TellVid3.jpg",
+					"vidVimeoLink":"http://player.vimeo.com/video/55775999",            	
+					"vidPageOrder":"1",
+					"vidDirectorOrder":"1"	
+				},
+				{
+					"vidTitle":"Tests For the New Year, Part 2",
+					"vidAbout":"Houston, that may have seemed like a very long final phase. The autotargeting was taking us right into a ... crater, with a large number of big boulders and rocks ... and it required ... flying manually over the rock field to find a reasonably good area.",
+					"vidPromoImage":"images/director/TellVid4.jpg",
+					"vidVimeoLink":"http://player.vimeo.com/video/54322056",            	
+					"vidPageOrder":"2",
+					"vidDirectorOrder":"2"	
+				}
+            ]
+        }
+    ]
+}

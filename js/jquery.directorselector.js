@@ -204,7 +204,7 @@
 					   $('#directorNav li ul').append($('<li>').append( $('<a>').attr('href','#').addClass("showAllDirs").addClass("classy2").click(function(){ $.fn.directorselector.loadAllVids(); return false; }).html("View All Work") ));	
 			$('<ul/>', { html: movieList.join('')}).appendTo('#director-carousel');
 			
-			$('#director-carousel').append('<div class="upDown"><div class="down tempDown" rel="0"><div class="down2"><img src="images/down.gif"/></div></div><div class="up" rel="0"><div class="up2"><img src="images/up.gif"/></div></div></div><div class="vimeoLink"><a href="http://vimeo.com/tellcollective" target="_blank"><img src="images/vimeo2.gif" class="hover"></a></div>');
+			$('#director-carousel').append('<div class="upDown"><div class="down tempDown" rel="0"><div class="down2"><img src="images/down.gif"/></div></div><div class="up" rel="0"><div class="up2"><img src="images/up.gif"/></div></div></div><div class="vimeoLink"><a href="http://vimeopro.com/tellcollective/tell-collective-portfolio" target="_blank"><img src="images/vimeo2.gif" class="hover"></a></div>');
 			
 				caro = $('#director-carousel');
 				

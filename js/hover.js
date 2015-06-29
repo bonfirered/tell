@@ -75,7 +75,7 @@ $(document).ready(function(){
 		$.fn.directorselector.loadAllVids();
 		event.preventDefault();$('.down').addClass('tempDown');var 			
 		ulHeight = $('.mask ul').height();
-		rowNumbers = ulHeight/ 245;
+		rowNumbers = ulHeight/ 285;
 		$('.down').addClass('tempDown');
 		$('.tempDown').attr('rel',rowNumbers);
 		setTimeout( function(){
@@ -112,7 +112,7 @@ $(document).ready(function(){
 			$('.directorSortBox ul').css({'border-top' : '1px solid #4D4E4A'});
 			});
 			setTimeout( function(){
-      			$('.directorSortBox ul').stop(true).animate({height: '245px'});
+      			$('.directorSortBox ul').stop(true).animate({height: '285px'});
    			},300);
 		
 	}, function(){

@@ -1,245 +1,331 @@
-{
-    "directorsArray":[{
-            "directorName":"Directed by: Bob Egle",
-            "directorTitle":"Owner / Creative Manager / Director",
-            "directorBio":"Founding Tell came naturally to Bob, a steady film and video craftsman with a keen eye for detail, a genuine love of collaboration, and a way of connecting with people.<br/><br/>His director's reel showcases these talents perfectly, featuring great performances within an impressive range of on-camera subjects: regular folks, seasoned actors, well-known athletes and celebrities, and corporate executives. That same skill set walks beautifully to his role as Tell’s Creative Manager, where he gets the most out of his hand-picked team of directors, cinematographers, producers, editors, and motion graphic artists.<br/><br/>Born and raised on the East Coast, Bob began his commercial film career over 20 years ago in New York City. He now calls Columbus, Ohio home, where he lives with his wife, Liane, their two kids, Lauren and Dylan, and two crazy dogs named Roxie and Ringo.",
-            "directorHeadshot":"images/director/faces/faceBob.jpg",
-            "directorVids":[
-			{
-					"vidTitle":"LP SmartSide 'Storm Force Striker'",
-					"vidAbout":"The Storm Force Striker cannon was built exclusively for this shoot. It was designed to hurl golf balls at hurricane force wind speeds into house siding. The impact shots were filmed at 1500 FPS using the Phantom HD camera.",
-					"vidPromoImage":"images/Work_Thumbnails/tellStorm.jpg",
-					"vidVimeoLink":"http://player.vimeo.com/video/66272074",            	
-					"vidPageOrder":"11",
-					"vidDirectorOrder":"1"	
-				},
-				{
-					"vidTitle":"South Jersey Hospital 'Better Everyday' ",
-					"vidAbout":"The challenge of this spot was to capture a glimpse of what makes the South Jersey community tick. Bob did extensive local casting and scouting to find real South Jersey residents whose lives are impacted by the great work done by the hospital.",
-					"vidPromoImage":"images/Work_Thumbnails/Tell01southjersey.jpg",
-					"vidVimeoLink":"http://player.vimeo.com/video/55775122",            	
-					"vidPageOrder":"6",
-					"vidDirectorOrder":"1"	
-				},
-				{
-					"vidTitle":"Red Thread Promise 'Haiti' Film ",
-					"vidAbout":"Bob directed this Addy Award winning film that documents the life changing work performed by the Red Thread Promise organization on behalf of orphaned children in the battered and poverty stricken country of Haiti. It was beautifully edited by Tell Collective's Lance Moody.",
-					"vidPromoImage":"images/Work_Thumbnails/Tell04redthread.jpg",
-					"vidVimeoLink":"http://player.vimeo.com/video/55775999",            	
-					"vidPageOrder":"16",
-					"vidDirectorOrder":"1"	
-				},
-				{
-					"vidTitle":"Family Dollar Stores 'Great Savings, Great Brands'",
-					"vidAbout":"In terms of a retail store shoot, this was a text book case of how to do it right. Understandably, the client did not want to close the store or curb hours for the TV production, so Bob and his team organized a massive remake of the store and turned the entire production around in about ten hours.",
-					"vidPromoImage":"images/Work_Thumbnails/Tell07familydollar.jpg",
-					"vidVimeoLink":"http://player.vimeo.com/video/55768294",            	
-					"vidPageOrder":"21",
-					"vidDirectorOrder":"1"	
-				},
-				{
-					"vidTitle":"KY Lottery 'Cash Ball'",
-					"vidAbout":"Meticulous planning, clever shooting and cutting techniques, and a crazy amount of real one dollar bills brought this Kentucky Lottery spot to life. The spot turned out great, but what amazed Bob the most was not a single bill was harmed during the making of it.",
-					"vidPromoImage":"images/Work_Thumbnails/Tell13kylottery.jpg",
-					"vidVimeoLink":"http://player.vimeo.com/video/55768296",            	
-					"vidPageOrder":"13",
-					"vidDirectorOrder":"1"	
-				},
-				{
-					"vidTitle":"Goodyear Gemini 'Baby Name'",
-					"vidAbout":"This spot was shot down in Florida in the dead of winter and unfortunately it was no warmer there than the Midwest freeze Bob, his team, and the agency were trying to escape. The talent did an awesome job of making it look bearable.",
-					"vidPromoImage":"images/Work_Thumbnails/Tell20goodyear.jpg",
-					"vidVimeoLink":"http://player.vimeo.com/video/57006679",            	
-					"vidPageOrder":"25",
-					"vidDirectorOrder":"1"	
-				},
-				{
-					"vidTitle":"Guardian Angel Hospice 'Lori'",
-					"vidAbout":"This is a great example of a making the most of limited resources to create an emotional message for a really worthwhile client. The opening shot of the cornfield was an idea that Bob and the agency explored, and after hours of driving through fields, Bob discovered this location on a perfect summer afternoon.",
-					"vidPromoImage":"images/Work_Thumbnails/Tell23guardian.jpg",
-					"vidVimeoLink":"http://player.vimeo.com/video/55768295",            	
-					"vidPageOrder":"23",
-					"vidDirectorOrder":"1"	
-				}
-            ]
+{  
+  "directorsArray":[  
+    {  
+      "directorName":"Directed by: Bob Egle",
+      "directorTitle":"Owner / Creative Manager / Director",
+      "directorBio":"Founding Tell came naturally to Bob, a steady film and video craftsman with a keen eye for detail, a genuine love of collaboration, and a way of connecting with people.<br/><br/>His director's reel showcases these talents perfectly, featuring great performances within an impressive range of on-camera subjects: regular folks, seasoned actors, well-known athletes and celebrities, and corporate executives. That same skill set walks beautifully to his role as Tell’s Creative Manager, where he gets the most out of his hand-picked team of directors, cinematographers, producers, editors, and motion graphic artists.<br/><br/>Born and raised on the East Coast, Bob began his commercial film career over 20 years ago in New York City. He now calls Columbus, Ohio home, where he lives with his wife, Liane, their two kids, Lauren and Dylan, and two crazy dogs named Roxie and Ringo.",
+      "directorHeadshot":"images/director/faces/faceBob.jpg",
+      "directorVids":[  
+        {  
+          "vidTitle":"LP SmartSide 'Storm Force Striker'",
+          "vidAbout":"The Storm Force Striker cannon was built exclusively for this shoot. It was designed to hurl golf balls at hurricane force wind speeds into house siding. The impact shots were filmed at 1500 FPS using the Phantom HD camera.",
+          "vidPromoImage":"images/Work_Thumbnails/tellStorm.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/66272074",
+          "vidPageOrder":"11",
+          "vidDirectorOrder":"1"
         },
-        {
-            "directorName":"Directed by: Joanne Hock",
-            "directorTitle":"Director / Cinematographer",
-            "directorBio":"Joanne brings a wildly diverse set of talents and experiences to Tell.<br/><br/>She has written and directed feature films, commercials and documentaries, and lensed thousands of television commercials and directed national and international television shows.<br/><br/>On Joanne's very crowded award shelf are two New York International Film Festival Gold Medal Awards: for direction, and the coveted Grand Prize Award. In 2011 she wrote and directed the award-winning feature length romantic comedy <i>Redneck Roots</i>. Her directorial skills on the dramatic feature film, <i>Trinity Goodheart</i>, helped co-star Eric Benet earn a nomination as Best Actor in a Television Movie or Miniseries in the 2011 Black Reel Awards.<br/><br/>Her DP work includes such renowned documentaries as <i>In the Footsteps of Elie Wiesel</i>, narrated by Richard Gere; <i>Fifty Years of Folk</i>, <i>The History of the Newport Folk Festival</i>; as well as <i>The Spirit of Sacagawea</i> and PBS's <i>Laugh at Us</i>.<br/><br/>Among Joanne's current projects is serving as DP on a new 13 episode series with Dr. Maya Angelou for the Hallmark Channel.",
-            "directorHeadshot":"images/director/faces/faceJoanne.jpg",          
-            "directorVids":[
-				{
-					"vidTitle":"Joanne Hock 'Show Reel'",
-					"vidAbout":"Storytelling is in Joanne's blood. Her great grandfather was a NY stage actor and her grandfather managed vaudeville acts and movie theaters. She started in the business 30 years ago and she writes, directs and shoots. Her work includes commercials, screenplays, feature films, television series and documentaries.",
-					"vidPromoImage":"images/Work_Thumbnails/Tell02joannehock.jpg",
-					"vidVimeoLink":"http://player.vimeo.com/video/56129386",            	
-					"vidPageOrder":"3",
-					"vidDirectorOrder":"2"	
-				},
-				{
-					"vidTitle":"DNC Charlotte In 2012",
-					"vidAbout":"Joanne created, shot and directed the opening film that welcomed the world to Charlotte, North Carolina for the 2012 Democratic National Convention. The film explored the region's rich history and bright future.",
-					"vidPromoImage":"images/Work_Thumbnails/Tell05charlotte.jpg",
-					"vidVimeoLink":"http://player.vimeo.com/video/55786800",            	
-					"vidPageOrder":"7",
-					"vidDirectorOrder":"2"	
-				},
-				{
-					"vidTitle":"South Carolina Bank & Trust 'We Believe'",
-					"vidAbout":"Real people set against the backdrop of scenic South Carolina locations brought this award-winning TV campaign to life. Joanne's cinematography and easy going on-set demeanor showcased customers of the bank in a natural and positive way.",
-					"vidPromoImage":"images/Work_Thumbnails/Tell08southcarolina.jpg",
-					"vidVimeoLink":"http://player.vimeo.com/video/55783105",            	
-					"vidPageOrder":"12",
-					"vidDirectorOrder":"2"	
-				},
-				{
-					"vidTitle":"BMW 'Ultimate Driving Machine' Film",
-					"vidAbout":"Helicopter aerials, timelapse cinematography and a first hand look at manufacturing of high precision automobiles blends Joanne's distinct visual style to tell the story of the Ultimate Driving Machine film.",
-					"vidPromoImage":"images/Work_Thumbnails/Tell11bmw.jpg",
-					"vidVimeoLink":"http://player.vimeo.com/video/55785329",            	
-					"vidPageOrder":"17",
-					"vidDirectorOrder":"2"	
-				},
-				{
-					"vidTitle":"Bank of America 'Diversity & Inclusion'",
-					"vidAbout":"Bank of America wanted to showcase their diverse range of associates at work in London, New York, Miami and Charlotte.  Joanne filmed and captured the true spirit of the bank's internal program of diversity, inclusion and acceptance.",
-					"vidPromoImage":"images/Work_Thumbnails/Tell14boa.jpg",
-					"vidVimeoLink":"http://player.vimeo.com/video/56124952",            	
-					"vidPageOrder":"14",
-					"vidDirectorOrder":"2"	
-				}
-            ]
+        {  
+          "vidTitle":"South Jersey Hospital 'Better Everyday' ",
+          "vidAbout":"The challenge of this spot was to capture a glimpse of what makes the South Jersey community tick. Bob did extensive local casting and scouting to find real South Jersey residents whose lives are impacted by the great work done by the hospital.",
+          "vidPromoImage":"images/Work_Thumbnails/Tell01southjersey.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/55775122",
+          "vidPageOrder":"6",
+          "vidDirectorOrder":"1"
         },
-        {
-            "directorName":"Edited by: Lance Moody",
-            "directorTitle":"Editor / Motion Graphics Designer",
-            "directorBio":"Give him your footage, and he'll tell you a story.<br/><br/>Lance Moody doesn't so much cut footage together as he composes it into something greater than the sum of its frames and pixels.<br/><br/>His reverence for the storytelling power of film and video has made him the go-to editor for dozens of directors, producers and agencies, and we're proud to have him aboard at Tell.<br/><br/>He lives in Cincinnati with his wife and two kids, and their aptly named dog Pixel.",
-            "directorHeadshot":"images/director/faces/faceLance.jpg",
-            "directorVids":[
-				{
-					"vidTitle":"Olay 'Daily Facials'",
-					"vidAbout":"P&G sets an extremely high standard of quality for their products and their advertising. This spot for Olay 'Daily Facials' highlights Lance's artistry as a film editor as well as a graphic artist. He deftly handles both duties here.",
-					"vidPromoImage":"images/Work_Thumbnails/Tell03olay.jpg",
-					"vidVimeoLink":"http://player.vimeo.com/video/56100348",            	
-					"vidPageOrder":"4",
-					"vidDirectorOrder":"3"	
-				},
-				{
-					"vidTitle":"CSU 'Kinetic Type Collection'",
-					"vidAbout":"Lance collaborated with Director Bob Egle on a series of these motion graphic spots for Cleveland State University. The two spots shown here are great examples of Lance's skills when it comes to type and graphic manipulation using After Effects.",
-					"vidPromoImage":"images/Work_Thumbnails/Tell06csu.jpg",
-					"vidVimeoLink":"http://player.vimeo.com/video/56100423",            	
-					"vidPageOrder":"8",
-					"vidDirectorOrder":"3"	
-				},
-				{
-					"vidTitle":"Marine Corps. 'Toys for Tots'",
-					"vidAbout":"Great visual storytelling is what exemplifies this spot for 'Toys For Tots'. It’s not chock full of special effects and visual gimmickry. Lance shows off his skills using beautifully crafted edits to tell this Christmastime story.",
-					"vidPromoImage":"images/Work_Thumbnails/Tell09marines.jpg",
-					"vidVimeoLink":"http://player.vimeo.com/video/56100049",            	
-					"vidPageOrder":"18",
-					"vidDirectorOrder":"3"	
-				},
-				{
-					"vidTitle":"Swiffer 'Carpet Flick'",
-					"vidAbout":"There is a lot going on in this P&G spot for Swiffer 'Carpet Flick'. Not only does Lance handle the basic editorial storytelling duties, but he also executes a number of special effects, motion graphics and graphic animation shots that tell the 'Carpet Flick' story.",
-					"vidPromoImage":"images/Work_Thumbnails/Tell12swifter.jpg",
-					"vidVimeoLink":"http://player.vimeo.com/video/56100233",            	
-					"vidPageOrder":"26",
-					"vidDirectorOrder":"3"	
-				},
-				{
-					"vidTitle":"Crest 'Gum Care'",
-					"vidAbout":"Lance's artistry as a film editor is highlighted in this P&G testimonial spot for Crest 'Gum Care'.",
-					"vidPromoImage":"images/Work_Thumbnails/Tell15crest.jpg",
-					"vidVimeoLink":"http://player.vimeo.com/video/56100055",            	
-					"vidPageOrder":"29",
-					"vidDirectorOrder":"3"	
-				},
-				{
-					"vidTitle":"Entergy 'Bayou'",
-					"vidAbout":"The Louisiana bayou is the spectacular backdrop to this elegantly told story of life in one of the most hauntingly beautiful parts of our country. Lance's editorial skills as a storyteller shine in this spot for Entergy.",
-					"vidPromoImage":"images/Work_Thumbnails/Tell17entergy.jpg",
-					"vidVimeoLink":"http://player.vimeo.com/video/56100227",            	
-					"vidPageOrder":"27",
-					"vidDirectorOrder":"3"	
-				},
-				{
-					"vidTitle":"Charmin 'Puffs Hold Up'",
-					"vidAbout":"Demonstration spots are a hallmark of P&G advertising. Lance has blended many subtle touches into this fifteen second spot for Charmin. The spot not only demonstrates the strength of Charmin tissue, but also shows off Lances skills in motion graphics and effects.",
-					"vidPromoImage":"images/Work_Thumbnails/Tell18charmin.jpg",
-					"vidVimeoLink":"http://player.vimeo.com/video/56100350",            	
-					"vidPageOrder":"28",
-					"vidDirectorOrder":"3"	
-				},
-				{
-					"vidTitle":"CSCC 'Where The World Is Going'",
-					"vidAbout":"Editor Lance Moody collaborated with director Bob Egle in this spot for CSCC that features a combination of portrait shots, slice of life and time lapse to show the diverse range of career choices and fields of study at Columbus State.",
-					"vidPromoImage":"images/Work_Thumbnails/Tell19cscc.jpg",
-					"vidVimeoLink":"http://player.vimeo.com/video/56100346",            	
-					"vidPageOrder":"19",
-					"vidDirectorOrder":"3"	
-				}
-            ]
+        {  
+          "vidTitle":"Red Thread Promise 'Haiti' Film ",
+          "vidAbout":"Bob directed this Addy Award winning film that documents the life changing work performed by the Red Thread Promise organization on behalf of orphaned children in the battered and poverty stricken country of Haiti. It was beautifully edited by Tell Collective's Lance Moody.",
+          "vidPromoImage":"images/Work_Thumbnails/Tell04redthread.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/55775999",
+          "vidPageOrder":"16",
+          "vidDirectorOrder":"1"
         },
-         {
-            "directorName":"Directed by: Carter Pagel",
-            "directorTitle":"Director",
-            "directorBio":"Carter brings a writer's sensibilities to his skills as a director.<br/><br/>With fourteen years of agency experience as an advertising copywriter and associate creative director, Carter now enjoys bringing the written word to life in front of the camera. He is building on a career in which he has penned national television spots for brands such as AT&T, Bud Light and State Farm and garnered awards from Cannes and Advertising Age among others.<br/><br/>With such a background, it’s no surprise that his focus is on dialogue-driven comedic spots, and his work demonstrates a keen ability to coax great performances out of his actors. With a passion for hard work, both in pre-production and on-set, Carter has directed humorous commercials for Western Union, Intel and everyone’s favorite calcium, lime and rust cleaner—CLR.<br/><br/>Carter shares life with his girlfriend, Shannon McGarvey, his daughter, Bella and their dog, Chuy. Yes, of course, he’s a Chihuahua.",
-            "directorHeadshot":"images/director/faces/faceCarter.jpg",
-            "directorVids":[
-				{
-					"vidTitle":"INTEL 'UltraBook' Spec",
-					"vidAbout":"This spec spot for Intel is a hilarious example of Carter's penchant for simple storytelling and humorous dialogue. He knows how to milk a funny situation and get the most from his actors.",
-					"vidPromoImage":"images/Work_Thumbnails/tellIntel.jpg",
-					"vidVimeoLink":"http://player.vimeo.com/video/66587903",            	
-					"vidPageOrder":"14",
-					"vidDirectorOrder":"4"	
-				}
-            ]
+        {  
+          "vidTitle":"Family Dollar Stores 'Great Savings, Great Brands'",
+          "vidAbout":"In terms of a retail store shoot, this was a text book case of how to do it right. Understandably, the client did not want to close the store or curb hours for the TV production, so Bob and his team organized a massive remake of the store and turned the entire production around in about ten hours.",
+          "vidPromoImage":"images/Work_Thumbnails/Tell07familydollar.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/55768294",
+          "vidPageOrder":"21",
+          "vidDirectorOrder":"1"
         },
-         {
-            "directorName":"Directed by: Kevin Willson",
-            "directorTitle":"Director",
-            "directorBio":"Beyond the craft service table, you'll probably still find a bag of Doritos on a Kevin Willson set.<br/><br/>Kevin has directed two #1 rated Super Bowl commercials. His 2012 Super Bowl Doritos' spot,'Sling Baby', was #1 on the Facebook-USA Today Ad Meter, #1 'Most Liked' and #1 'Most Remembered' by Nielson ratings. CBS rated it as the #5 Best Super Bowl Ad of All Time. And his 2010 Super Bowl spot, 'Casket,'' also got rated '#1 Most Remembered' by Nielson.<br/><br/>Kevin loves directing comedies with heart and collaborating with fun people. Recently Frito-Lay hired him to write and direct a short film for their new Jacked chips, providing an opportunity to work with Andy Samberg and Jorma Taccone. Those are fun people.<br/><br/>Besides his Super Bowl ads, Kevin has directed/DP'd documentaries in twelve countries, created videos for Jeep, Lamborghini & Kia, is active in the improvisational comedy community, and years earlier earned a film degree in college while working at Medieval Times as a 'Serf', the male version of the 'Wench'.<br/><br/>When not involved in comedic storytelling, Kevin loves playing ultimate Frisbee and playing catch with his French bulldog puppy, Walter.",
-            "directorHeadshot":"images/director/faces/faceKevin.jpg",
-            "directorVids":[
-				{
-					"vidTitle":"Doritos Sling Baby",
-					"vidAbout":"Kevin's direction not only shows his gift for humorous storytelling, but also his exceptional attention to detail in each and every shot. No wonder this spot was voted #1 for 'Most Liked' and 'Most Remembered' by Neilson when it aired on the Super Bowl.",
-					"vidPromoImage":"images/Work_Thumbnails/tellSling.jpg",
-					"vidVimeoLink":"http://player.vimeo.com/video/65767078",            	
-					"vidPageOrder":"1",
-					"vidDirectorOrder":"5"	
-				},
-				{
-					"vidTitle":"Doritos Casket",
-					"vidAbout":"Not many spot directors have the skill to take on the subject of death and actually make it funny. This award winning Super Bowl ad takes you to unexpected places and hits just the right comedic note!",
-					"vidPromoImage":"images/Work_Thumbnails/tellCasket.jpg",
-					"vidVimeoLink":"http://player.vimeo.com/video/65767073",            	
-					"vidPageOrder":"10",
-					"vidDirectorOrder":"5"	
-				},
-				{
-					"vidTitle":"UPDCP Bear Traps",
-					"vidAbout":"Kevin takes a completely unexpected and cleverly comedic approach to the serious message of pharmaceutical abuse.  Take a look at his awesome attention to detail in the art direction and his skillful storytelling in this offbeat spot for the state of Utah.",
-					"vidPromoImage":"images/Work_Thumbnails/tellBear.jpg",
-					"vidVimeoLink":"http://player.vimeo.com/video/65774841",            	
-					"vidPageOrder":"15",
-					"vidDirectorOrder":"5"	
-				},
-				{
-					"vidTitle":"PepsiMax Office Break",
-					"vidAbout":"This spot is completely over-the-top and just plain fun.  Kevin pulls out all the comedic stops with his characters, set ups, and dialogue.  The result is a laugh-out-loud experience that works exceptionally well for the Pepsi Max brand.",
-					"vidPromoImage":"images/Work_Thumbnails/tellPepsi.jpg",
-					"vidVimeoLink":"http://player.vimeo.com/video/65774841",            	
-					"vidPageOrder":"30",
-					"vidDirectorOrder":"5"	
-				}
-            ]
+        {  
+          "vidTitle":"KY Lottery 'Cash Ball'",
+          "vidAbout":"Meticulous planning, clever shooting and cutting techniques, and a crazy amount of real one dollar bills brought this Kentucky Lottery spot to life. The spot turned out great, but what amazed Bob the most was not a single bill was harmed during the making of it.",
+          "vidPromoImage":"images/Work_Thumbnails/Tell13kylottery.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/55768296",
+          "vidPageOrder":"13",
+          "vidDirectorOrder":"1"
+        },
+        {  
+          "vidTitle":"Goodyear Gemini 'Baby Name'",
+          "vidAbout":"This spot was shot down in Florida in the dead of winter and unfortunately it was no warmer there than the Midwest freeze Bob, his team, and the agency were trying to escape. The talent did an awesome job of making it look bearable.",
+          "vidPromoImage":"images/Work_Thumbnails/Tell20goodyear.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/57006679",
+          "vidPageOrder":"25",
+          "vidDirectorOrder":"1"
+        },
+        {  
+          "vidTitle":"Guardian Angel Hospice 'Lori'",
+          "vidAbout":"This is a great example of a making the most of limited resources to create an emotional message for a really worthwhile client. The opening shot of the cornfield was an idea that Bob and the agency explored, and after hours of driving through fields, Bob discovered this location on a perfect summer afternoon.",
+          "vidPromoImage":"images/Work_Thumbnails/Tell23guardian.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/55768295",
+          "vidPageOrder":"23",
+          "vidDirectorOrder":"1"
+        },
+        {  
+          "vidTitle":"PPG Pittsburgh Paints Video",
+          "vidAbout":"Paint, it's not just for walls anymore. Or so you might think in this exciting piece Bob directed to express the energy of two classic brands, Devoe and PPG paints, coming together to form one powerhouse brand, PPG Pittsburgh. The Tell team used a Phantom Flex to capture paint at 1200 fps. And yes, the camera did remain splatter free.",
+          "vidVimeoLink":"https://vimeo.com/110792279"
+        },
+        {  
+          "vidTitle":"Office",
+          "vidAbout":"In this : 30 spot, Donato's pizza is a very important piece of the brainstorming session as this office group lands on the big idea they've been seeking. Careful propping, glorious food shots and elegant lighting of the company's Chairwoman combine to create immediate impact.",
+          "vidVimeoLink":"https://vimeo.com/131211476"
+        },
+        {  
+          "vidTitle":"The Seeker",
+          "vidAbout":"To announce the merger of two HVAC brands and inspire excitement at the client's annual sales meeting, Bob utilizes dramatic cinematography techiniques as he follows an expertly cast 'Seeker' from extreme climates - deserts to mountains and cityscapes to rural roads, until he finally finds the ideal cozy environment in a suburban home.",
+          "vidVimeoLink":"https://vimeo.com/78224081"
+        },
+        {  
+          "vidTitle":"Own It: Cathleen",
+          "vidAbout":"The Tell team worked with Telhio to develop their branding strategy and to create this campaign. In this video, Bob captures a testimonial with an actual customer. Who knew banking was easier when you 'own it?' Cathleen does!",
+          "vidVimeoLink":"https://vimeo.com/114389504"
+        },
+        {  
+          "vidTitle":"Move In Day",
+          "vidAbout":"The challenge in this spot was to show pizza as a welcome respite from the luncacy of moving day. A perfect location, concise script, high-quality VO and glorious food shots come together with Bobs insightful direction to communicate that sometimes, Donato's pizza is the best rewarding end to an exhausting day!",
+          "vidVimeoLink":"https://vimeo.com/129905602"
         }
-       
-        
-    ]
+      ]
+    },
+    {  
+      "directorName":"Directed by: Joanne Hock",
+      "directorTitle":"Director / Cinematographer",
+      "directorBio":"Joanne brings a wildly diverse set of talents and experiences to Tell.<br/><br/>She has written and directed feature films, commercials and documentaries, and lensed thousands of television commercials and directed national and international television shows.<br/><br/>On Joanne's very crowded award shelf are two New York International Film Festival Gold Medal Awards: for direction, and the coveted Grand Prize Award. In 2011 she wrote and directed the award-winning feature length romantic comedy <i>Redneck Roots</i>. Her directorial skills on the dramatic feature film, <i>Trinity Goodheart</i>, helped co-star Eric Benet earn a nomination as Best Actor in a Television Movie or Miniseries in the 2011 Black Reel Awards.<br/><br/>Her DP work includes such renowned documentaries as <i>In the Footsteps of Elie Wiesel</i>, narrated by Richard Gere; <i>Fifty Years of Folk</i>, <i>The History of the Newport Folk Festival</i>; as well as <i>The Spirit of Sacagawea</i> and PBS's <i>Laugh at Us</i>.<br/><br/>Among Joanne's current projects is serving as DP on a new 13 episode series with Dr. Maya Angelou for the Hallmark Channel.",
+      "directorHeadshot":"images/director/faces/faceJoanne.jpg",
+      "directorVids":[  
+        {  
+          "vidTitle":"Joanne Hock 'Show Reel'",
+          "vidAbout":"Storytelling is in Joanne's blood. Her great grandfather was a NY stage actor and her grandfather managed vaudeville acts and movie theaters. She started in the business 30 years ago and she writes, directs and shoots. Her work includes commercials, screenplays, feature films, television series and documentaries.",
+          "vidPromoImage":"images/Work_Thumbnails/Tell02joannehock.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/56129386",
+          "vidPageOrder":"3",
+          "vidDirectorOrder":"2"
+        },
+        {  
+          "vidTitle":"DNC Charlotte In 2012",
+          "vidAbout":"Joanne created, shot and directed the opening film that welcomed the world to Charlotte, North Carolina for the 2012 Democratic National Convention. The film explored the region's rich history and bright future.",
+          "vidPromoImage":"images/Work_Thumbnails/Tell05charlotte.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/55786800",
+          "vidPageOrder":"7",
+          "vidDirectorOrder":"2"
+        },
+        {  
+          "vidTitle":"South Carolina Bank & Trust 'We Believe'",
+          "vidAbout":"Real people set against the backdrop of scenic South Carolina locations brought this award-winning TV campaign to life. Joanne's cinematography and easy going on-set demeanor showcased customers of the bank in a natural and positive way.",
+          "vidPromoImage":"images/Work_Thumbnails/Tell08southcarolina.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/55783105",
+          "vidPageOrder":"12",
+          "vidDirectorOrder":"2"
+        },
+        {  
+          "vidTitle":"BMW 'Ultimate Driving Machine' Film",
+          "vidAbout":"Helicopter aerials, timelapse cinematography and a first hand look at manufacturing of high precision automobiles blends Joanne's distinct visual style to tell the story of the Ultimate Driving Machine film.",
+          "vidPromoImage":"images/Work_Thumbnails/Tell11bmw.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/55785329",
+          "vidPageOrder":"17",
+          "vidDirectorOrder":"2"
+        },
+        {  
+          "vidTitle":"Bank of America 'Diversity & Inclusion'",
+          "vidAbout":"Bank of America wanted to showcase their diverse range of associates at work in London, New York, Miami and Charlotte.  Joanne filmed and captured the true spirit of the bank's internal program of diversity, inclusion and acceptance.",
+          "vidPromoImage":"images/Work_Thumbnails/Tell14boa.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/56124952",
+          "vidPageOrder":"14",
+          "vidDirectorOrder":"2"
+        }
+      ]
+    },
+    {  
+      "directorName":"Edited by: Lance Moody",
+      "directorTitle":"Editor / Motion Graphics Designer",
+      "directorBio":"Give him your footage, and he'll tell you a story.<br/><br/>Lance Moody doesn't so much cut footage together as he composes it into something greater than the sum of its frames and pixels.<br/><br/>His reverence for the storytelling power of film and video has made him the go-to editor for dozens of directors, producers and agencies, and we're proud to have him aboard at Tell.<br/><br/>He lives in Cincinnati with his wife and two kids, and their aptly named dog Pixel.",
+      "directorHeadshot":"images/director/faces/faceLance.jpg",
+      "directorVids":[  
+        {  
+          "vidTitle":"Olay 'Daily Facials'",
+          "vidAbout":"P&G sets an extremely high standard of quality for their products and their advertising. This spot for Olay 'Daily Facials' highlights Lance's artistry as a film editor as well as a graphic artist. He deftly handles both duties here.",
+          "vidPromoImage":"images/Work_Thumbnails/Tell03olay.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/56100348",
+          "vidPageOrder":"4",
+          "vidDirectorOrder":"3"
+        },
+        {  
+          "vidTitle":"CSU 'Kinetic Type Collection'",
+          "vidAbout":"Lance collaborated with Director Bob Egle on a series of these motion graphic spots for Cleveland State University. The two spots shown here are great examples of Lance's skills when it comes to type and graphic manipulation using After Effects.",
+          "vidPromoImage":"images/Work_Thumbnails/Tell06csu.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/56100423",
+          "vidPageOrder":"8",
+          "vidDirectorOrder":"3"
+        },
+        {  
+          "vidTitle":"Marine Corps. 'Toys for Tots'",
+          "vidAbout":"Great visual storytelling is what exemplifies this spot for 'Toys For Tots'. It’s not chock full of special effects and visual gimmickry. Lance shows off his skills using beautifully crafted edits to tell this Christmastime story.",
+          "vidPromoImage":"images/Work_Thumbnails/Tell09marines.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/56100049",
+          "vidPageOrder":"18",
+          "vidDirectorOrder":"3"
+        },
+        {  
+          "vidTitle":"Swiffer 'Carpet Flick'",
+          "vidAbout":"There is a lot going on in this P&G spot for Swiffer 'Carpet Flick'. Not only does Lance handle the basic editorial storytelling duties, but he also executes a number of special effects, motion graphics and graphic animation shots that tell the 'Carpet Flick' story.",
+          "vidPromoImage":"images/Work_Thumbnails/Tell12swifter.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/56100233",
+          "vidPageOrder":"26",
+          "vidDirectorOrder":"3"
+        },
+        {  
+          "vidTitle":"Crest 'Gum Care'",
+          "vidAbout":"Lance's artistry as a film editor is highlighted in this P&G testimonial spot for Crest 'Gum Care'.",
+          "vidPromoImage":"images/Work_Thumbnails/Tell15crest.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/56100055",
+          "vidPageOrder":"29",
+          "vidDirectorOrder":"3"
+        },
+        {  
+          "vidTitle":"Entergy 'Bayou'",
+          "vidAbout":"The Louisiana bayou is the spectacular backdrop to this elegantly told story of life in one of the most hauntingly beautiful parts of our country. Lance's editorial skills as a storyteller shine in this spot for Entergy.",
+          "vidPromoImage":"images/Work_Thumbnails/Tell17entergy.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/56100227",
+          "vidPageOrder":"27",
+          "vidDirectorOrder":"3"
+        },
+        {  
+          "vidTitle":"Charmin 'Puffs Hold Up'",
+          "vidAbout":"Demonstration spots are a hallmark of P&G advertising. Lance has blended many subtle touches into this fifteen second spot for Charmin. The spot not only demonstrates the strength of Charmin tissue, but also shows off Lances skills in motion graphics and effects.",
+          "vidPromoImage":"images/Work_Thumbnails/Tell18charmin.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/56100350",
+          "vidPageOrder":"28",
+          "vidDirectorOrder":"3"
+        },
+        {  
+          "vidTitle":"CSCC 'Where The World Is Going'",
+          "vidAbout":"Editor Lance Moody collaborated with director Bob Egle in this spot for CSCC that features a combination of portrait shots, slice of life and time lapse to show the diverse range of career choices and fields of study at Columbus State.",
+          "vidPromoImage":"images/Work_Thumbnails/Tell19cscc.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/56100346",
+          "vidPageOrder":"19",
+          "vidDirectorOrder":"3"
+        },
+        {  
+          "vidTitle":"Catch Energy 2014",
+          "vidAbout":"In this spot, Lance and Bob partnered to create an inspiring message about what the University of Akron offers its students. The university president and actual students were featured passing an orb of energy, via SFX masterfully created  by Lance, to exemplify that all things are possible through the U of A's programs and opportunities.",
+          "vidVimeoLink":"https://vimeo.com/85738060"
+        },
+        {  
+          "vidTitle":"Aida",
+          "vidAbout":"Lance's visionary animation skills are showcased in this spot as he builds a virtual museum of antiquities and transports us all the way thorugh time into the here and now. A classic piece of music like Aida is hard to improve upon, but we think Lance's visual interpretation adds a lot of zing to an operatic performance.",
+          "vidVimeoLink":"https://vimeo.com/128422721"
+        },
+        {  
+          "vidTitle":"Apple Pay",
+          "vidAbout":"It's a classic challenge. How to communicate a detailed B to B concept and keep it engaging? Someday we'll all wonder what we did before Apple Pay. In this spot, Lance's editing and animation skills show us why!",
+          "vidVimeoLink":"https://vimeo.com/128881411"
+        },
+        {  
+          "vidTitle":"New Horizons",
+          "vidAbout":"Lance's visual artistry and editing intellect combine forces in this epic concept creatively compacted into a 30 second spot. By animating clips of the client's show and performance offerings into orbs that seemingly fly off the screen past the viewer, you can't help but want to watch the whole piece. And see a movie or a show in Dayton!",
+          "vidVimeoLink":"https://vimeo.com/128883824"
+        }
+      ]
+    },
+    {  
+      "directorName":"Directed by: Carter Pagel",
+      "directorTitle":"Director",
+      "directorBio":"Carter brings a writer's sensibilities to his skills as a director.<br/><br/>With fourteen years of agency experience as an advertising copywriter and associate creative director, Carter now enjoys bringing the written word to life in front of the camera. He is building on a career in which he has penned national television spots for brands such as AT&T, Bud Light and State Farm and garnered awards from Cannes and Advertising Age among others.<br/><br/>With such a background, it’s no surprise that his focus is on dialogue-driven comedic spots, and his work demonstrates a keen ability to coax great performances out of his actors. With a passion for hard work, both in pre-production and on-set, Carter has directed humorous commercials for Western Union, Intel and everyone’s favorite calcium, lime and rust cleaner—CLR.<br/><br/>Carter shares life with his girlfriend, Shannon McGarvey, his daughter, Bella and their dog, Chuy. Yes, of course, he’s a Chihuahua.",
+      "directorHeadshot":"images/director/faces/faceCarter.jpg",
+      "directorVids":[  
+        {  
+          "vidTitle":"INTEL 'UltraBook' Spec",
+          "vidAbout":"This spec spot for Intel is a hilarious example of Carter's penchant for simple storytelling and humorous dialogue. He knows how to milk a funny situation and get the most from his actors.",
+          "vidPromoImage":"images/Work_Thumbnails/tellIntel.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/66587903",
+          "vidPageOrder":"14",
+          "vidDirectorOrder":"4"
+        },
+        {  
+          "vidTitle":"Not What You Think",
+          "vidAbout":"Quirky, uncluttered and quick. This : 30 second spot for Tarn-X derives its humor from ironic dialog and a retro styling vibe. Carter partners closely with his actors to pull off this string of zingers resulting in sheer hilarity.",
+          "vidVimeoLink":"https://vimeo.com/128429838"
+        },
+        {  
+          "vidTitle":"Park It",
+          "vidAbout":"Carter's myriad comedic talents are showcased in this spot for Klever Logic. Excellent direction and timing will have you laughing all the way as you watch our driver's urban navigation stress subside with the aid of Smart Stations parking options.",
+          "vidVimeoLink":"https://vimeo.com/128877634"
+        },
+        {  
+          "vidTitle":"Made with Love in ATX",
+          "vidAbout":"Of course, a bike brand named 'Paramour' is pretty alluring. But to then understand the passion and beauty of this hand-built brand through Carter's vision, one quickly falls in love with the one-man company, based in Austin, TX.",
+          "vidVimeoLink":"https://vimeo.com/128880579"
+        }
+      ]
+    },
+    {  
+      "directorName":"Directed by: Kevin Willson",
+      "directorTitle":"Director",
+      "directorBio":"Beyond the craft service table, you'll probably still find a bag of Doritos on a Kevin Willson set.<br/><br/>Kevin has directed two #1 rated Super Bowl commercials. His 2012 Super Bowl Doritos' spot,'Sling Baby', was #1 on the Facebook-USA Today Ad Meter, #1 'Most Liked' and #1 'Most Remembered' by Nielson ratings. CBS rated it as the #5 Best Super Bowl Ad of All Time. And his 2010 Super Bowl spot, 'Casket,'' also got rated '#1 Most Remembered' by Nielson.<br/><br/>Kevin loves directing comedies with heart and collaborating with fun people. Recently Frito-Lay hired him to write and direct a short film for their new Jacked chips, providing an opportunity to work with Andy Samberg and Jorma Taccone. Those are fun people.<br/><br/>Besides his Super Bowl ads, Kevin has directed/DP'd documentaries in twelve countries, created videos for Jeep, Lamborghini & Kia, is active in the improvisational comedy community, and years earlier earned a film degree in college while working at Medieval Times as a 'Serf', the male version of the 'Wench'.<br/><br/>When not involved in comedic storytelling, Kevin loves playing ultimate Frisbee and playing catch with his French bulldog puppy, Walter.",
+      "directorHeadshot":"images/director/faces/faceKevin.jpg",
+      "directorVids":[  
+        {  
+          "vidTitle":"Doritos Sling Baby",
+          "vidAbout":"Kevin's direction not only shows his gift for humorous storytelling, but also his exceptional attention to detail in each and every shot. No wonder this spot was voted #1 for 'Most Liked' and 'Most Remembered' by Neilson when it aired on the Super Bowl.",
+          "vidPromoImage":"images/Work_Thumbnails/tellSling.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/65767078",
+          "vidPageOrder":"1",
+          "vidDirectorOrder":"5"
+        },
+        {  
+          "vidTitle":"Doritos Casket",
+          "vidAbout":"Not many spot directors have the skill to take on the subject of death and actually make it funny. This award winning Super Bowl ad takes you to unexpected places and hits just the right comedic note!",
+          "vidPromoImage":"images/Work_Thumbnails/tellCasket.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/65767073",
+          "vidPageOrder":"10",
+          "vidDirectorOrder":"5"
+        },
+        {  
+          "vidTitle":"UPDCP Bear Traps",
+          "vidAbout":"Kevin takes a completely unexpected and cleverly comedic approach to the serious message of pharmaceutical abuse.  Take a look at his awesome attention to detail in the art direction and his skillful storytelling in this offbeat spot for the state of Utah.",
+          "vidPromoImage":"images/Work_Thumbnails/tellBear.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/65774841",
+          "vidPageOrder":"15",
+          "vidDirectorOrder":"5"
+        },
+        {  
+          "vidTitle":"PepsiMax Office Break",
+          "vidAbout":"This spot is completely over-the-top and just plain fun.  Kevin pulls out all the comedic stops with his characters, set ups, and dialogue.  The result is a laugh-out-loud experience that works exceptionally well for the Pepsi Max brand.",
+          "vidPromoImage":"images/Work_Thumbnails/tellPepsi.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/65774841",
+          "vidPageOrder":"30",
+          "vidDirectorOrder":"5"
+        }
+      ]
+    },
+    {  
+      "directorName":"Edited by: Beth Edwards",
+      "directorTitle":"Editor",
+      "directorHeadshot":"images/director/faces/faceBeth.jpg",
+      "directorVids":[  
+        {
+          "vidTitle":"Everyone Matters",
+          "vidAbout":"Beth's editing skills come to light in this fast-paced internal corporate video. She found magical cut points to integrate many different speakers' statements into a cohesive message with a natural flow.",
+          "vidVimeoLink":"https://vimeo.com/130555655"
+        },
+        {
+          "vidTitle":"Self Music Promotion",
+          "vidAbout":"In this video promoting a musician, Beth's sensitive side comes out in her choices. The subject, Leslie is a fascinating woman and through this artful piece, we can't help but wish her well on her musical journey!",
+          "vidVimeoLink":"https://vimeo.com/32805661"
+        },
+        {
+          "vidTitle":"DAAP Webisodes 1 and 5 of 5",
+          "vidAbout":"In this series of 5 webisodes, Beth rises to the challenge by cutting a semester's worth of footage into a series of short pieces. She maintains the students' enthusiasm and excitement as they pursue the unique opportunity of designing eyewear for LensCrafters and attempting to win scholarship awards in the process!",
+          "vidVimeoLink":"https://vimeo.com/130280825"
+        },
+        {
+          "vidTitle":"Step Back from the Baggage Claim (book promotion)",
+          "vidAbout":"Following one man though many locations, cutting this video could have been a challenge. But not for Beth. Her sense of visual connection helps relay the subject's message that through many small acts of kindness, we can enhance our collective humanity...starting with something as simple as stepping back from the baggage claim.",
+          "vidVimeoLink":"https://vimeo.com/29683111"
+        }
+      ]
+    }
+  ]
 }

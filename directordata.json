@@ -65,26 +65,31 @@
         {  
           "vidTitle":"PPG Pittsburgh Paints Video",
           "vidAbout":"Paint, it's not just for walls anymore. Or so you might think in this exciting piece Bob directed to express the energy of two classic brands, Devoe and PPG paints, coming together to form one powerhouse brand, PPG Pittsburgh. The Tell team used a Phantom Flex to capture paint at 1200 fps. And yes, the camera did remain splatter free.",
+          "vidPromoImage":"images/Work_Thumbnails/PPG.jpg",
           "vidVimeoLink":"https://vimeo.com/110792279"
         },
         {  
           "vidTitle":"Donato's Office",
           "vidAbout":"In this : 30 spot, Donato's pizza is a very important piece of the brainstorming session as this office group lands on the big idea they've been seeking. Careful propping, glorious food shots and elegant lighting of the company's Chairwoman combine to create immediate impact.",
+          "vidPromoImage":"images/Work_Thumbnails/DonatosOffice.jpg",
           "vidVimeoLink":"https://vimeo.com/131211476"
         },
         {  
           "vidTitle":"Daikin The Seeker",
           "vidAbout":"To announce the merger of two HVAC brands and inspire excitement at the client's annual sales meeting, Bob utilizes dramatic cinematography techiniques as he follows an expertly cast 'Seeker' from extreme climates - deserts to mountains and cityscapes to rural roads, until he finally finds the ideal cozy environment in a suburban home.",
+          "vidPromoImage":"images/Work_Thumbnails/Daikin.jpg",
           "vidVimeoLink":"https://vimeo.com/78224081"
         },
         {  
           "vidTitle":"Telhio Own It: Cathleen",
           "vidAbout":"The Tell team worked with Telhio to develop their branding strategy and to create this campaign. In this video, Bob captures a testimonial with an actual customer. Who knew banking was easier when you 'own it?' Cathleen does!",
+          "vidPromoImage":"images/Work_Thumbnails/Telhio.jpg",
           "vidVimeoLink":"https://vimeo.com/114389504"
         },
         {  
           "vidTitle":"Donato's Move In Day",
           "vidAbout":"The challenge in this spot was to show pizza as a welcome respite from the luncacy of moving day. A perfect location, concise script, high-quality VO and glorious food shots come together with Bobs insightful direction to communicate that sometimes, Donato's pizza is the best rewarding end to an exhausting day!",
+          "vidPromoImage":"images/Work_Thumbnails/DonatosMoveIn.jpg",
           "vidVimeoLink":"https://vimeo.com/129905602"
         }
       ]

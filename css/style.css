@@ -1177,17 +1177,6 @@ background-color: #FFFFFF;
 #directorNav ul li:first-child {
    margin-top: 20px;
 }
-#directorNav ul li:first-child:before {
-   margin-top: 20px;
-   padding-top: 7px;
-   padding-bottom: 10px;
-   display: block;
-   content: "Corporate";
-   text-align: center;
-   color: #F8DB08;
-   font-family: "HelveticaNeueHeavy","HelveticaNeue-Heavy","Helvetica Neue Heavy","HelveticaNeue","Helvetica Neue","TeXGyreHerosBold","Arial Black",sans-serif;
-   font-size: 16px;
-}
 .down {
 	float:left;
 	margin-left:10px;
@@ -1504,6 +1493,7 @@ background-color: #FFFFFF;
 .hoverCircle {cursor:pointer;}
 #a6{padding-top:34px;}
 #a7{padding-top:32px;}
+#a8{padding-top:58px;}
 /* iPad [portrait + landscape] */
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
 	.fixedScroll {

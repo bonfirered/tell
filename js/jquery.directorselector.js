@@ -165,7 +165,7 @@
 											
 										}
 										var ulHeight = $('.mask ul').height();
-											rowNumbers = ulHeight/ 285;
+											rowNumbers = ulHeight/ 320;
 											$('.down').addClass('tempDown');
 											$('.tempDown').attr('rel',rowNumbers);
 											$('.up').attr('rel', '0');

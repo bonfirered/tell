@@ -1494,6 +1494,11 @@ background-color: #FFFFFF;
 #a6{padding-top:34px;}
 #a7{padding-top:32px;}
 #a8{padding-top:58px;}
+#a9{padding-top:100px;}
+#a9 .leftBio span {
+  padding: 0 40px 0 0;
+  display: block;
+}
 /* iPad [portrait + landscape] */
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
 	.fixedScroll {

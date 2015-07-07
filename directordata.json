@@ -1,6 +1,78 @@
 {  
   "directorsArray":[  
     {  
+      "directorName":"Corporate Work",
+      "directorTitle":"",
+      "directorBio":"",
+      "directorHeadshot":"",
+      "directorVids":[  
+        {  
+          "vidTitle":"Nationwide Children's Hospital",
+          "vidAbout":"What an honor to be asked to help tell the story of the good work being done at Nationwide Children's Hospital.  Utilizing existing footage in addition to shooting new live action, Tell also brought NCH's logo to life by animating a butterfly thoughout this video to create an engaging visual element.",
+          "vidPromoImage":"images/Work_Thumbnails/NationwideChildrensHospital_Board.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/129906426",
+          "vidPageOrder":"1",
+          "vidDirectorOrder":"1"
+        },
+        {  
+          "vidTitle":"Luxoticca",
+          "vidAbout":"With a combo of live action and animated graphics, plus brand enhancing music, Tell worked closely with the Luxoticca team to shoot and edit this piece resulting in an engaging explanation of a potentially confusing process...from getting an eye exam to fitting frames. ",
+          "vidPromoImage":"images/Work_Thumbnails/Luxoticca_0.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/86552531",
+          "vidPageOrder":"2",
+          "vidDirectorOrder":"1"
+        },
+        {  
+          "vidTitle":"Ohio Dairy Farmers",
+          "vidAbout":"In a playful yet strategically-designed animation, Tell explains how your favorite dairy products get from the farm to your refrigerator. Cute cows and a jaunty tune help keep the mood light while the serious issue of food safety is addressed.",
+          "vidPromoImage":"images/Work_Thumbnails/OhioDairyFarmers.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/127825422",
+          "vidPageOrder":"3",
+          "vidDirectorOrder":"1"
+        },
+        {  
+          "vidTitle":"Worthington Industries",
+          "vidAbout":"Spanning several states, factories and dozens of employees, Tell worked right alongside Worthington Industries' corporate communcations team to craft a message explaining the consolidation of several WI divisions into one.  We sought out and incorporated human emotion into this story for a company that specializes in steel products!",
+          "vidPromoImage":"images/Work_Thumbnails/WorthingtonIndustries.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/86546747",
+          "vidPageOrder":"4",
+          "vidDirectorOrder":"1"
+        },
+        {  
+          "vidTitle":"Luxoticca",
+          "vidAbout":"In this series of 5 webisodes, Tell follows a group of design students who are given the unique opportunity to design eyewear for LensCrafters.  The students teamed up and developed amazing options.  Members of the winning team each won a scholarship and also had their designs placed in LensCrafters stores.  Webisodes were the perfect, fast-paced mode to communicate the enthusiasm of the contestants and keep the public up to date with results!",
+          "vidPromoImage":"images/Work_Thumbnails/Luxoticca_1.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/130280825",
+          "vidPageOrder":"5",
+          "vidDirectorOrder":"1"
+        },
+        {  
+          "vidTitle":"Nationwide Children's Hospital",
+          "vidAbout":"In this video, a very courageous 10 year old cancer patient allows us a glimpse at what it's like to be a child with cancer. On behalf of the NCH marketing departement, the Tell team worked with Lauren and her family to approach very sensitive subject matters and combined some of Lauren's personal \"video diaries\" into the final piece, resulting in a highly moving and inspiring message.  This video has received national acclaim in healthcare marketing.",
+          "vidPromoImage":"images/Work_Thumbnails/NationwideChildrensHospital_Lauren.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/129902163",
+          "vidPageOrder":"6",
+          "vidDirectorOrder":"1"
+        },
+        {  
+          "vidTitle":"PPG",
+          "vidAbout":"Paint, it's not just for walls anymore.  Or so you might think in this exciting piece Bob directed to express the energy of two classic brands, Devoe and PPG paints, coming together to form one powerhouse brand, PPG Pittsburgh. The Tell team used a Phantom Flex to capture paint at 1200 fps.  And yes, the camera did remain splatter free.",
+          "vidPromoImage":"images/Work_Thumbnails/PPG.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/86552531",
+          "vidPageOrder":"7",
+          "vidDirectorOrder":"1"
+        },
+        {  
+          "vidTitle":"Daikin",
+          "vidAbout":"To announce the merger of two HVAC brands and inspire excitement at the client's annual sales meeting, Bob utilizes dramatic cinematography techiniques as he follows an expertly cast \"Seeker\" from extreme climates - deserts to mountains and cityscapes to rural roads, until he finally finds the ideal cozy environment in a suburban home.",
+          "vidPromoImage":"images/Work_Thumbnails/Daikin.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/78224081",
+          "vidPageOrder":"8",
+          "vidDirectorOrder":"1"
+        }
+      ]
+    },
+    {  
       "directorName":"Directed by: Bob Egle",
       "directorTitle":"Owner / Creative Manager / Director",
       "directorBio":"Founding Tell came naturally to Bob, a steady film and video craftsman with a keen eye for detail, a genuine love of collaboration, and a way of connecting with people.<br/><br/>His director's reel showcases these talents perfectly, featuring great performances within an impressive range of on-camera subjects: regular folks, seasoned actors, well-known athletes and celebrities, and corporate executives. That same skill set walks beautifully to his role as Tell’s Creative Manager, where he gets the most out of his hand-picked team of directors, cinematographers, producers, editors, and motion graphic artists.<br/><br/>Born and raised on the East Coast, Bob began his commercial film career over 20 years ago in New York City. He now calls Columbus, Ohio home, where he lives with his wife, Liane, their two kids, Lauren and Dylan, and two crazy dogs named Roxie and Ringo.",

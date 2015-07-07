@@ -182,6 +182,8 @@
 				it++;
 				
 				var movit = 0;
+
+				shuffle(val.directorVids);
 			
 				$.each(val.directorVids, function(key1, val1) {
 
@@ -370,6 +372,25 @@
 		//$('.pagination-links').show();
 		}).delay(300).fadeIn(500);    	
     	
-    }     
+    }
+
+    function shuffle(array) {
+      var currentIndex = array.length, temporaryValue, randomIndex ;
+
+      // While there remain elements to shuffle...
+      while (0 !== currentIndex) {
+
+        // Pick a remaining element...
+        randomIndex = Math.floor(Math.random() * currentIndex);
+        currentIndex -= 1;
+
+        // And swap it with the current element.
+        temporaryValue = array[currentIndex];
+        array[currentIndex] = array[randomIndex];
+        array[randomIndex] = temporaryValue;
+      }
+
+      return array;
+    } 
     
 })(jQuery);

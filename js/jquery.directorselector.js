@@ -183,7 +183,8 @@
 				
 				var movit = 0;
 
-				shuffle(val.directorVids);
+				//console.log(val);
+				//shuffle(val);
 			
 				$.each(val.directorVids, function(key1, val1) {
 
@@ -225,7 +226,13 @@
 	
 			$('.hoverEffect').click( function() { 
 				
-				$.fn.directorselector.loadVidVals($(this).attr('id')); 
+				$.fn.directorselector.loadVidVals($(this).attr('id'));
+
+				if($(this).attr('id').indexOf('mov_1') == 0 ) {
+					$('body').attr('class', 'corporate-work');
+				} else {
+					$('body').removeAttr('class');
+				}
 			
 				$("#vidFrame").hide();
 				var left = 0;

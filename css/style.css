@@ -346,6 +346,9 @@ h2{
 	-ms-transition-duration: .3s;
 
 }
+.corporate-work #previewGoNext {
+	background: url('../images/info.png') top right no-repeat;
+}
 
 #previewGoNext:hover{
 	right:-10px;

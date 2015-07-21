@@ -79,6 +79,44 @@
       "directorHeadshot":"images/director/faces/faceBob.jpg",
       "directorVids":[  
         {  
+          "vidTitle":"PPG Pittsburgh Paints Video",
+          "vidAbout":"Paint, it's not just for walls anymore. Or so you might think in this exciting piece Bob directed to express the energy of two classic brands, Devoe and PPG paints, coming together to form one powerhouse brand, PPG Pittsburgh. The Tell team used a Phantom Flex to capture paint at 1200 fps. And yes, the camera did remain splatter free.",
+          "vidPromoImage":"images/Work_Thumbnails/PPG.jpg",
+          "vidVimeoLink":"https://vimeo.com/110792279"
+        },
+        {  
+          "vidTitle":"Donato's Office",
+          "vidAbout":"In this : 30 spot, Donato's pizza is a very important piece of the brainstorming session as this office group lands on the big idea they've been seeking. Careful propping, glorious food shots and elegant lighting of the company's Chairwoman combine to create immediate impact.",
+          "vidPromoImage":"images/Work_Thumbnails/DonatosOffice.jpg",
+          "vidVimeoLink":"https://vimeo.com/131211476"
+        },
+        {  
+          "vidTitle":"South Jersey Hospital 'Better Everyday' ",
+          "vidAbout":"The challenge of this spot was to capture a glimpse of what makes the South Jersey community tick. Bob did extensive local casting and scouting to find real South Jersey residents whose lives are impacted by the great work done by the hospital.",
+          "vidPromoImage":"images/Work_Thumbnails/Tell01southjersey.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/55775122",
+          "vidPageOrder":"6",
+          "vidDirectorOrder":"1"
+        },
+        {  
+          "vidTitle":"Daikin The Seeker",
+          "vidAbout":"To announce the merger of two HVAC brands and inspire excitement at the client's annual sales meeting, Bob utilizes dramatic cinematography techiniques as he follows an expertly cast 'Seeker' from extreme climates - deserts to mountains and cityscapes to rural roads, until he finally finds the ideal cozy environment in a suburban home.",
+          "vidPromoImage":"images/Work_Thumbnails/Daikin.jpg",
+          "vidVimeoLink":"https://vimeo.com/78224081"
+        },
+        {  
+          "vidTitle":"Telhio Own It: Cathleen",
+          "vidAbout":"The Tell team worked with Telhio to develop their branding strategy and to create this campaign. In this video, Bob captures a testimonial with an actual customer. Who knew banking was easier when you 'own it?' Cathleen does!",
+          "vidPromoImage":"images/Work_Thumbnails/Telhio.jpg",
+          "vidVimeoLink":"https://vimeo.com/114389504"
+        },
+        {  
+          "vidTitle":"Donato's Move In Day",
+          "vidAbout":"The challenge in this spot was to show pizza as a welcome respite from the luncacy of moving day. A perfect location, concise script, high-quality VO and glorious food shots come together with Bobs insightful direction to communicate that sometimes, Donato's pizza is the best rewarding end to an exhausting day!",
+          "vidPromoImage":"images/Work_Thumbnails/DonatosMoveIn.jpg",
+          "vidVimeoLink":"https://vimeo.com/129905602"
+        },
+        {  
           "vidTitle":"LP SmartSide 'Storm Force Striker'",
           "vidAbout":"The Storm Force Striker cannon was built exclusively for this shoot. It was designed to hurl golf balls at hurricane force wind speeds into house siding. The impact shots were filmed at 1500 FPS using the Phantom HD camera.",
           "vidPromoImage":"images/Work_Thumbnails/tellStorm.jpg",
@@ -87,11 +125,11 @@
           "vidDirectorOrder":"1"
         },
         {  
-          "vidTitle":"South Jersey Hospital 'Better Everyday' ",
-          "vidAbout":"The challenge of this spot was to capture a glimpse of what makes the South Jersey community tick. Bob did extensive local casting and scouting to find real South Jersey residents whose lives are impacted by the great work done by the hospital.",
-          "vidPromoImage":"images/Work_Thumbnails/Tell01southjersey.jpg",
-          "vidVimeoLink":"http://player.vimeo.com/video/55775122",
-          "vidPageOrder":"6",
+          "vidTitle":"KY Lottery 'Cash Ball'",
+          "vidAbout":"Meticulous planning, clever shooting and cutting techniques, and a crazy amount of real one dollar bills brought this Kentucky Lottery spot to life. The spot turned out great, but what amazed Bob the most was not a single bill was harmed during the making of it.",
+          "vidPromoImage":"images/Work_Thumbnails/Tell13kylottery.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/55768296",
+          "vidPageOrder":"13",
           "vidDirectorOrder":"1"
         },
         {  
@@ -111,11 +149,11 @@
           "vidDirectorOrder":"1"
         },
         {  
-          "vidTitle":"KY Lottery 'Cash Ball'",
-          "vidAbout":"Meticulous planning, clever shooting and cutting techniques, and a crazy amount of real one dollar bills brought this Kentucky Lottery spot to life. The spot turned out great, but what amazed Bob the most was not a single bill was harmed during the making of it.",
-          "vidPromoImage":"images/Work_Thumbnails/Tell13kylottery.jpg",
-          "vidVimeoLink":"http://player.vimeo.com/video/55768296",
-          "vidPageOrder":"13",
+          "vidTitle":"Guardian Angel Hospice 'Lori'",
+          "vidAbout":"This is a great example of a making the most of limited resources to create an emotional message for a really worthwhile client. The opening shot of the cornfield was an idea that Bob and the agency explored, and after hours of driving through fields, Bob discovered this location on a perfect summer afternoon.",
+          "vidPromoImage":"images/Work_Thumbnails/Tell23guardian.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/55768295",
+          "vidPageOrder":"23",
           "vidDirectorOrder":"1"
         },
         {  
@@ -125,44 +163,6 @@
           "vidVimeoLink":"http://player.vimeo.com/video/57006679",
           "vidPageOrder":"25",
           "vidDirectorOrder":"1"
-        },
-        {  
-          "vidTitle":"Guardian Angel Hospice 'Lori'",
-          "vidAbout":"This is a great example of a making the most of limited resources to create an emotional message for a really worthwhile client. The opening shot of the cornfield was an idea that Bob and the agency explored, and after hours of driving through fields, Bob discovered this location on a perfect summer afternoon.",
-          "vidPromoImage":"images/Work_Thumbnails/Tell23guardian.jpg",
-          "vidVimeoLink":"http://player.vimeo.com/video/55768295",
-          "vidPageOrder":"23",
-          "vidDirectorOrder":"1"
-        },
-        {  
-          "vidTitle":"PPG Pittsburgh Paints Video",
-          "vidAbout":"Paint, it's not just for walls anymore. Or so you might think in this exciting piece Bob directed to express the energy of two classic brands, Devoe and PPG paints, coming together to form one powerhouse brand, PPG Pittsburgh. The Tell team used a Phantom Flex to capture paint at 1200 fps. And yes, the camera did remain splatter free.",
-          "vidPromoImage":"images/Work_Thumbnails/PPG.jpg",
-          "vidVimeoLink":"https://vimeo.com/110792279"
-        },
-        {  
-          "vidTitle":"Donato's Office",
-          "vidAbout":"In this : 30 spot, Donato's pizza is a very important piece of the brainstorming session as this office group lands on the big idea they've been seeking. Careful propping, glorious food shots and elegant lighting of the company's Chairwoman combine to create immediate impact.",
-          "vidPromoImage":"images/Work_Thumbnails/DonatosOffice.jpg",
-          "vidVimeoLink":"https://vimeo.com/131211476"
-        },
-        {  
-          "vidTitle":"Daikin The Seeker",
-          "vidAbout":"To announce the merger of two HVAC brands and inspire excitement at the client's annual sales meeting, Bob utilizes dramatic cinematography techiniques as he follows an expertly cast 'Seeker' from extreme climates - deserts to mountains and cityscapes to rural roads, until he finally finds the ideal cozy environment in a suburban home.",
-          "vidPromoImage":"images/Work_Thumbnails/Daikin.jpg",
-          "vidVimeoLink":"https://vimeo.com/78224081"
-        },
-        {  
-          "vidTitle":"Telhio Own It: Cathleen",
-          "vidAbout":"The Tell team worked with Telhio to develop their branding strategy and to create this campaign. In this video, Bob captures a testimonial with an actual customer. Who knew banking was easier when you 'own it?' Cathleen does!",
-          "vidPromoImage":"images/Work_Thumbnails/Telhio.jpg",
-          "vidVimeoLink":"https://vimeo.com/114389504"
-        },
-        {  
-          "vidTitle":"Donato's Move In Day",
-          "vidAbout":"The challenge in this spot was to show pizza as a welcome respite from the luncacy of moving day. A perfect location, concise script, high-quality VO and glorious food shots come together with Bobs insightful direction to communicate that sometimes, Donato's pizza is the best rewarding end to an exhausting day!",
-          "vidPromoImage":"images/Work_Thumbnails/DonatosMoveIn.jpg",
-          "vidVimeoLink":"https://vimeo.com/129905602"
         }
       ]
     },
@@ -197,19 +197,19 @@
           "vidDirectorOrder":"2"
         },
         {  
-          "vidTitle":"BMW 'Ultimate Driving Machine' Film",
-          "vidAbout":"Helicopter aerials, timelapse cinematography and a first hand look at manufacturing of high precision automobiles blends Joanne's distinct visual style to tell the story of the Ultimate Driving Machine film.",
-          "vidPromoImage":"images/Work_Thumbnails/Tell11bmw.jpg",
-          "vidVimeoLink":"http://player.vimeo.com/video/55785329",
-          "vidPageOrder":"17",
-          "vidDirectorOrder":"2"
-        },
-        {  
           "vidTitle":"Bank of America 'Diversity & Inclusion'",
           "vidAbout":"Bank of America wanted to showcase their diverse range of associates at work in London, New York, Miami and Charlotte.  Joanne filmed and captured the true spirit of the bank's internal program of diversity, inclusion and acceptance.",
           "vidPromoImage":"images/Work_Thumbnails/Tell14boa.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/56124952",
           "vidPageOrder":"14",
+          "vidDirectorOrder":"2"
+        },
+        {  
+          "vidTitle":"BMW 'Ultimate Driving Machine' Film",
+          "vidAbout":"Helicopter aerials, timelapse cinematography and a first hand look at manufacturing of high precision automobiles blends Joanne's distinct visual style to tell the story of the Ultimate Driving Machine film.",
+          "vidPromoImage":"images/Work_Thumbnails/Tell11bmw.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/55785329",
+          "vidPageOrder":"17",
           "vidDirectorOrder":"2"
         }
       ]
@@ -220,6 +220,30 @@
       "directorBio":"Give him your footage, and he'll tell you a story.<br/><br/>Lance Moody doesn't so much cut footage together as he composes it into something greater than the sum of its frames and pixels.<br/><br/>His reverence for the storytelling power of film and video has made him the go-to editor for dozens of directors, producers and agencies, and we're proud to have him aboard at Tell.<br/><br/>He lives in Cincinnati with his wife and two kids, and their aptly named dog Pixel.",
       "directorHeadshot":"images/director/faces/faceLance.jpg",
       "directorVids":[  
+        {  
+          "vidTitle":"University of Akron Catch Energy 2014",
+          "vidAbout":"In this spot, Lance and Bob partnered to create an inspiring message about what the University of Akron offers its students. The university president and actual students were featured passing an orb of energy, via SFX masterfully created  by Lance, to exemplify that all things are possible through the U of A's programs and opportunities.",
+          "vidPromoImage":"images/Work_Thumbnails/UniversityOfAkron.jpg",
+          "vidVimeoLink":"https://vimeo.com/85738060"
+        },
+        {  
+          "vidTitle":"Dayton Opera Aida",
+          "vidAbout":"Lance's visionary animation skills are showcased in this spot as he builds a virtual museum of antiquities and transports us all the way thorugh time into the here and now. A classic piece of music like Aida is hard to improve upon, but we think Lance's visual interpretation adds a lot of zing to an operatic performance.",
+          "vidPromoImage":"images/Work_Thumbnails/DaytonOpera.jpg",
+          "vidVimeoLink":"https://vimeo.com/128422721"
+        },
+        {  
+          "vidTitle":"First Data Apple Pay",
+          "vidAbout":"It's a classic challenge. How to communicate a detailed B to B concept and keep it engaging? Someday we'll all wonder what we did before Apple Pay. In this spot, Lance's editing and animation skills show us why!",
+          "vidPromoImage":"images/Work_Thumbnails/FirstData.jpg",
+          "vidVimeoLink":"https://vimeo.com/128881411"
+        },
+        {  
+          "vidTitle":"Dayton Performing Arts Association New Horizons",
+          "vidAbout":"Lance's visual artistry and editing intellect combine forces in this epic concept creatively compacted into a 30 second spot. By animating clips of the client's show and performance offerings into orbs that seemingly fly off the screen past the viewer, you can't help but want to watch the whole piece. And see a movie or a show in Dayton!",
+          "vidPromoImage":"images/Work_Thumbnails/DaytonPAA.jpg",
+          "vidVimeoLink":"https://vimeo.com/128883824"
+        },
         {  
           "vidTitle":"Olay 'Daily Facials'",
           "vidAbout":"P&G sets an extremely high standard of quality for their products and their advertising. This spot for Olay 'Daily Facials' highlights Lance's artistry as a film editor as well as a graphic artist. He deftly handles both duties here.",
@@ -245,19 +269,19 @@
           "vidDirectorOrder":"3"
         },
         {  
+          "vidTitle":"CSCC 'Where The World Is Going'",
+          "vidAbout":"Editor Lance Moody collaborated with director Bob Egle in this spot for CSCC that features a combination of portrait shots, slice of life and time lapse to show the diverse range of career choices and fields of study at Columbus State.",
+          "vidPromoImage":"images/Work_Thumbnails/Tell19cscc.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/56100346",
+          "vidPageOrder":"19",
+          "vidDirectorOrder":"3"
+        }
+        {  
           "vidTitle":"Swiffer 'Carpet Flick'",
           "vidAbout":"There is a lot going on in this P&G spot for Swiffer 'Carpet Flick'. Not only does Lance handle the basic editorial storytelling duties, but he also executes a number of special effects, motion graphics and graphic animation shots that tell the 'Carpet Flick' story.",
           "vidPromoImage":"images/Work_Thumbnails/Tell12swifter.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/56100233",
           "vidPageOrder":"26",
-          "vidDirectorOrder":"3"
-        },
-        {  
-          "vidTitle":"Crest 'Gum Care'",
-          "vidAbout":"Lance's artistry as a film editor is highlighted in this P&G testimonial spot for Crest 'Gum Care'.",
-          "vidPromoImage":"images/Work_Thumbnails/Tell15crest.jpg",
-          "vidVimeoLink":"http://player.vimeo.com/video/56100055",
-          "vidPageOrder":"29",
           "vidDirectorOrder":"3"
         },
         {  
@@ -277,36 +301,12 @@
           "vidDirectorOrder":"3"
         },
         {  
-          "vidTitle":"CSCC 'Where The World Is Going'",
-          "vidAbout":"Editor Lance Moody collaborated with director Bob Egle in this spot for CSCC that features a combination of portrait shots, slice of life and time lapse to show the diverse range of career choices and fields of study at Columbus State.",
-          "vidPromoImage":"images/Work_Thumbnails/Tell19cscc.jpg",
-          "vidVimeoLink":"http://player.vimeo.com/video/56100346",
-          "vidPageOrder":"19",
+          "vidTitle":"Crest 'Gum Care'",
+          "vidAbout":"Lance's artistry as a film editor is highlighted in this P&G testimonial spot for Crest 'Gum Care'.",
+          "vidPromoImage":"images/Work_Thumbnails/Tell15crest.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/56100055",
+          "vidPageOrder":"29",
           "vidDirectorOrder":"3"
-        },
-        {  
-          "vidTitle":"University of Akron Catch Energy 2014",
-          "vidAbout":"In this spot, Lance and Bob partnered to create an inspiring message about what the University of Akron offers its students. The university president and actual students were featured passing an orb of energy, via SFX masterfully created  by Lance, to exemplify that all things are possible through the U of A's programs and opportunities.",
-          "vidPromoImage":"images/Work_Thumbnails/UniversityOfAkron.jpg",
-          "vidVimeoLink":"https://vimeo.com/85738060"
-        },
-        {  
-          "vidTitle":"Dayton Opera Aida",
-          "vidAbout":"Lance's visionary animation skills are showcased in this spot as he builds a virtual museum of antiquities and transports us all the way thorugh time into the here and now. A classic piece of music like Aida is hard to improve upon, but we think Lance's visual interpretation adds a lot of zing to an operatic performance.",
-          "vidPromoImage":"images/Work_Thumbnails/DaytonOpera.jpg",
-          "vidVimeoLink":"https://vimeo.com/128422721"
-        },
-        {  
-          "vidTitle":"First Data Apple Pay",
-          "vidAbout":"It's a classic challenge. How to communicate a detailed B to B concept and keep it engaging? Someday we'll all wonder what we did before Apple Pay. In this spot, Lance's editing and animation skills show us why!",
-          "vidPromoImage":"images/Work_Thumbnails/FirstData.jpg",
-          "vidVimeoLink":"https://vimeo.com/128881411"
-        },
-        {  
-          "vidTitle":"Dayton Performing Arts Association New Horizons",
-          "vidAbout":"Lance's visual artistry and editing intellect combine forces in this epic concept creatively compacted into a 30 second spot. By animating clips of the client's show and performance offerings into orbs that seemingly fly off the screen past the viewer, you can't help but want to watch the whole piece. And see a movie or a show in Dayton!",
-          "vidPromoImage":"images/Work_Thumbnails/DaytonPAA.jpg",
-          "vidVimeoLink":"https://vimeo.com/128883824"
         }
       ]
     },
@@ -317,18 +317,18 @@
       "directorHeadshot":"images/director/faces/faceCarter.jpg",
       "directorVids":[  
         {  
+          "vidTitle":"Tarn-X Not What You Think",
+          "vidAbout":"Quirky, uncluttered and quick. This : 30 second spot for Tarn-X derives its humor from ironic dialog and a retro styling vibe. Carter partners closely with his actors to pull off this string of zingers resulting in sheer hilarity.",
+          "vidPromoImage":"images/Work_Thumbnails/TarnX.jpg",
+          "vidVimeoLink":"https://vimeo.com/128429838"
+        },
+        {  
           "vidTitle":"INTEL 'UltraBook' Spec",
           "vidAbout":"This spec spot for Intel is a hilarious example of Carter's penchant for simple storytelling and humorous dialogue. He knows how to milk a funny situation and get the most from his actors.",
           "vidPromoImage":"images/Work_Thumbnails/tellIntel.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/66587903",
           "vidPageOrder":"14",
           "vidDirectorOrder":"4"
-        },
-        {  
-          "vidTitle":"Tarn-X Not What You Think",
-          "vidAbout":"Quirky, uncluttered and quick. This : 30 second spot for Tarn-X derives its humor from ironic dialog and a retro styling vibe. Carter partners closely with his actors to pull off this string of zingers resulting in sheer hilarity.",
-          "vidPromoImage":"images/Work_Thumbnails/TarnX.jpg",
-          "vidVimeoLink":"https://vimeo.com/128429838"
         },
         {  
           "vidTitle":"Klever Logic Park It",

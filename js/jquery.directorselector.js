@@ -148,6 +148,8 @@
 		$.getJSON('directordata.json', function(data) {
 			
 			$.each(data.directorsArray, function(key, val) {
+
+				console.log(val);
 	
 				var cacheImage = document.createElement('img');
 				cacheImage.src = val.directorHeadshot;
@@ -182,9 +184,6 @@
 				it++;
 				
 				var movit = 0;
-
-				//console.log(val);
-				//shuffle(val);
 			
 				$.each(val.directorVids, function(key1, val1) {
 
@@ -199,7 +198,8 @@
 				
 			});
 			
-			movies.sort(function(a,b) { return parseFloat(a.key) - parseFloat(b.key) } );
+			//movies.sort(function(a,b) { return parseFloat(a.key) - parseFloat(b.key) } );
+			//shuffle(movies);
 			var movieList = [];	
 			 $.each(movies, function(c, d) {
                                movieList.push(d.value);

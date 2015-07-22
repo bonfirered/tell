@@ -31,6 +31,10 @@
       
           $("#directorNav").directorselector();
           $('body').removeClass('no-js');
+
+          setTimeout(function() {
+            $('#director-carousel .hideinall').css('display', 'none');
+          }, 1000);
           
         //$(window).bind('resize', function() {
              //location.reload();

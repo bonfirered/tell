@@ -185,10 +185,14 @@
 			
 				$.each(val.directorVids, function(key1, val1) {
 
+					var hideInAll = '<li>';
+					if(val1.hideInAll) {
+						var hideInAll = '<li class="hideinall">';
+					}
+
                                        
-                                       movies.push({'key': val1.vidPageOrder, 'value': '<li><div class="hoverEffect" id="mov_' + it + "_" + movit + '"><div class="hoverTitle">'+val1.vidTitle+'</div><span>'+ val.directorName + '</span></div><img class="vidPromoImg" src="'+val1.vidPromoImage+'" /></li>'});
-					 
-					
+                                       movies.push({'key': val1.vidPageOrder, 'value': hideInAll + '<div class="hoverEffect" id="mov_' + it + "_" + movit + '"><div class="hoverTitle">'+val1.vidTitle+'</div><span>'+ val.directorName + '</span></div><img class="vidPromoImg" src="'+val1.vidPromoImage+'" /></li>'});
+
 					movit++;
 
 
@@ -374,8 +378,12 @@
 		
 		
 		$('.mask li').each(function(index) {
-				
+
+				if(!$(this).hasClass('hideinall')) {
 					$(this).css("display","block");
+				} else {
+					$(this).css("display","none");
+				}
 				
 		});
 		

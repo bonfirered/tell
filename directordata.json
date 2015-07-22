@@ -7,7 +7,7 @@
       "directorHeadshot":"",
       "directorVids":[  
         {  
-          "vidTitle":"Nationwide Children's Hospital",
+          "vidTitle":"Nationwide Children's Hospital<br />'Board'",
           "vidAbout":"What an honor to be asked to help tell the story of the good work being done at Nationwide Children's Hospital.  Utilizing existing footage in addition to shooting new live action, Tell also brought NCH's logo to life by animating a butterfly thoughout this video to create an engaging visual element.",
           "vidPromoImage":"images/Work_Thumbnails/NationwideChildrensHospital_Board.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/129906426",
@@ -15,7 +15,7 @@
           "vidDirectorOrder":"1"
         },
         {  
-          "vidTitle":"Luxoticca",
+          "vidTitle":"Luxoticca<br />'Digital Experience'",
           "vidAbout":"With a combo of live action and animated graphics, plus brand enhancing music, Tell worked closely with the Luxoticca team to shoot and edit this piece resulting in an engaging explanation of a potentially confusing process...from getting an eye exam to fitting frames. ",
           "vidPromoImage":"images/Work_Thumbnails/Luxoticca_0.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/86552531",
@@ -23,7 +23,7 @@
           "vidDirectorOrder":"1"
         },
         {  
-          "vidTitle":"Ohio Dairy Farmers",
+          "vidTitle":"Ohio Dairy Farmers<br />'Farm to Fridge'",
           "vidAbout":"In a playful yet strategically-designed animation, Tell explains how your favorite dairy products get from the farm to your refrigerator. Cute cows and a jaunty tune help keep the mood light while the serious issue of food safety is addressed.",
           "vidPromoImage":"images/Work_Thumbnails/OhioDairyFarmers.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/127825422",
@@ -31,7 +31,7 @@
           "vidDirectorOrder":"1"
         },
         {  
-          "vidTitle":"Worthington Industries",
+          "vidTitle":"Worthington Industries<br />'Brand Video'",
           "vidAbout":"Spanning several states, factories and dozens of employees, Tell worked right alongside Worthington Industries' corporate communcations team to craft a message explaining the consolidation of several WI divisions into one.  We sought out and incorporated human emotion into this story for a company that specializes in steel products!",
           "vidPromoImage":"images/Work_Thumbnails/WorthingtonIndustries.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/86546747",
@@ -39,7 +39,7 @@
           "vidDirectorOrder":"1"
         },
         {  
-          "vidTitle":"Luxoticca",
+          "vidTitle":"Luxoticca<br />'DAAP Webisodes'",
           "vidAbout":"In this series of 5 webisodes, Tell follows a group of design students who are given the unique opportunity to design eyewear for LensCrafters.  The students teamed up and developed amazing options.  Members of the winning team each won a scholarship and also had their designs placed in LensCrafters stores.  Webisodes were the perfect, fast-paced mode to communicate the enthusiasm of the contestants and keep the public up to date with results!",
           "vidPromoImage":"images/Work_Thumbnails/Luxoticca_1.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/130280825",
@@ -47,7 +47,7 @@
           "vidDirectorOrder":"1"
         },
         {  
-          "vidTitle":"Nationwide Children's Hospital",
+          "vidTitle":"Nationwide Children's Hospital<br />'Lauren's Story'",
           "vidAbout":"In this video, a very courageous 10 year old cancer patient allows us a glimpse at what it's like to be a child with cancer. On behalf of the NCH marketing departement, the Tell team worked with Lauren and her family to approach very sensitive subject matters and combined some of Lauren's personal \"video diaries\" into the final piece, resulting in a highly moving and inspiring message.  This video has received national acclaim in healthcare marketing.",
           "vidPromoImage":"images/Work_Thumbnails/NationwideChildrensHospital_Lauren.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/129902163",
@@ -55,7 +55,7 @@
           "vidDirectorOrder":"1"
         },
         {  
-          "vidTitle":"PPG",
+          "vidTitle":"PPG<br />'Pittsburgh Paints'",
           "vidAbout":"Paint, it's not just for walls anymore.  Or so you might think in this exciting piece Bob directed to express the energy of two classic brands, Devoe and PPG paints, coming together to form one powerhouse brand, PPG Pittsburgh. The Tell team used a Phantom Flex to capture paint at 1200 fps.  And yes, the camera did remain splatter free.",
           "vidPromoImage":"images/Work_Thumbnails/PPG.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/110792279",
@@ -64,7 +64,7 @@
           "hideInAll":true
         },
         {  
-          "vidTitle":"Daikin",
+          "vidTitle":"Daikin<br />'The Seeker'",
           "vidAbout":"To announce the merger of two HVAC brands and inspire excitement at the client's annual sales meeting, Bob utilizes dramatic cinematography techiniques as he follows an expertly cast \"Seeker\" from extreme climates - deserts to mountains and cityscapes to rural roads, until he finally finds the ideal cozy environment in a suburban home.",
           "vidPromoImage":"images/Work_Thumbnails/Daikin.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/78224081",
@@ -81,13 +81,13 @@
       "directorHeadshot":"images/director/faces/faceBob.jpg",
       "directorVids":[  
         {  
-          "vidTitle":"PPG Pittsburgh Paints Video",
+          "vidTitle":"PPG<br />'Pittsburgh Paints'",
           "vidAbout":"Paint, it's not just for walls anymore. Or so you might think in this exciting piece Bob directed to express the energy of two classic brands, Devoe and PPG paints, coming together to form one powerhouse brand, PPG Pittsburgh. The Tell team used a Phantom Flex to capture paint at 1200 fps. And yes, the camera did remain splatter free.",
           "vidPromoImage":"images/Work_Thumbnails/PPG.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/110792279"
         },
         {  
-          "vidTitle":"Donato's Office",
+          "vidTitle":"Donato's<br />'Office'",
           "vidAbout":"In this : 30 spot, Donato's pizza is a very important piece of the brainstorming session as this office group lands on the big idea they've been seeking. Careful propping, glorious food shots and elegant lighting of the company's Chairwoman combine to create immediate impact.",
           "vidPromoImage":"images/Work_Thumbnails/DonatosOffice.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/131211476"
@@ -101,25 +101,25 @@
           "vidDirectorOrder":"1"
         },
         {  
-          "vidTitle":"Daikin The Seeker",
+          "vidTitle":"Daikin<br />'The Seeker'",
           "vidAbout":"To announce the merger of two HVAC brands and inspire excitement at the client's annual sales meeting, Bob utilizes dramatic cinematography techiniques as he follows an expertly cast 'Seeker' from extreme climates - deserts to mountains and cityscapes to rural roads, until he finally finds the ideal cozy environment in a suburban home.",
           "vidPromoImage":"images/Work_Thumbnails/Daikin.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/78224081"
         },
         {  
-          "vidTitle":"Telhio Own It: Cathleen",
+          "vidTitle":"Telhio<br />'Own It: Cathleen'",
           "vidAbout":"The Tell team worked with Telhio to develop their branding strategy and to create this campaign. In this video, Bob captures a testimonial with an actual customer. Who knew banking was easier when you 'own it?' Cathleen does!",
           "vidPromoImage":"images/Work_Thumbnails/Telhio.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/114389504"
         },
         {  
-          "vidTitle":"Donato's Move In Day",
+          "vidTitle":"Donato's<br />'Move In Day'",
           "vidAbout":"The challenge in this spot was to show pizza as a welcome respite from the luncacy of moving day. A perfect location, concise script, high-quality VO and glorious food shots come together with Bobs insightful direction to communicate that sometimes, Donato's pizza is the best rewarding end to an exhausting day!",
           "vidPromoImage":"images/Work_Thumbnails/DonatosMoveIn.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/129905602"
         },
         {  
-          "vidTitle":"LP SmartSide 'Storm Force Striker'",
+          "vidTitle":"LP SmartSide<br />'Storm Force Striker'",
           "vidAbout":"The Storm Force Striker cannon was built exclusively for this shoot. It was designed to hurl golf balls at hurricane force wind speeds into house siding. The impact shots were filmed at 1500 FPS using the Phantom HD camera.",
           "vidPromoImage":"images/Work_Thumbnails/tellStorm.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/66272074",
@@ -127,7 +127,7 @@
           "vidDirectorOrder":"1"
         },
         {  
-          "vidTitle":"KY Lottery 'Cash Ball'",
+          "vidTitle":"KY Lottery<br />'Cash Ball'",
           "vidAbout":"Meticulous planning, clever shooting and cutting techniques, and a crazy amount of real one dollar bills brought this Kentucky Lottery spot to life. The spot turned out great, but what amazed Bob the most was not a single bill was harmed during the making of it.",
           "vidPromoImage":"images/Work_Thumbnails/Tell13kylottery.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/55768296",
@@ -135,7 +135,7 @@
           "vidDirectorOrder":"1"
         },
         {  
-          "vidTitle":"Red Thread Promise 'Haiti' Film ",
+          "vidTitle":"Red Thread Promise<br />'Haiti'",
           "vidAbout":"Bob directed this Addy Award winning film that documents the life changing work performed by the Red Thread Promise organization on behalf of orphaned children in the battered and poverty stricken country of Haiti. It was beautifully edited by Tell Collective's Lance Moody.",
           "vidPromoImage":"images/Work_Thumbnails/Tell04redthread.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/55775999",
@@ -143,7 +143,7 @@
           "vidDirectorOrder":"1"
         },
         {  
-          "vidTitle":"Family Dollar Stores 'Great Savings, Great Brands'",
+          "vidTitle":"Family Dollar Stores<br />'Great Savings, Great Brands'",
           "vidAbout":"In terms of a retail store shoot, this was a text book case of how to do it right. Understandably, the client did not want to close the store or curb hours for the TV production, so Bob and his team organized a massive remake of the store and turned the entire production around in about ten hours.",
           "vidPromoImage":"images/Work_Thumbnails/Tell07familydollar.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/55768294",
@@ -159,7 +159,7 @@
       "directorHeadshot":"images/director/faces/faceJoanne.jpg",
       "directorVids":[  
         {  
-          "vidTitle":"Joanne Hock 'Show Reel'",
+          "vidTitle":"Joanne Hock<br />'Show Reel'",
           "vidAbout":"Storytelling is in Joanne's blood. Her great grandfather was a NY stage actor and her grandfather managed vaudeville acts and movie theaters. She started in the business 30 years ago and she writes, directs and shoots. Her work includes commercials, screenplays, feature films, television series and documentaries.",
           "vidPromoImage":"images/Work_Thumbnails/Tell02joannehock.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/56129386",
@@ -175,7 +175,7 @@
           "vidDirectorOrder":"2"
         },
         {  
-          "vidTitle":"South Carolina Bank & Trust 'We Believe'",
+          "vidTitle":"South Carolina Bank & Trust<br />'We Believe'",
           "vidAbout":"Real people set against the backdrop of scenic South Carolina locations brought this award-winning TV campaign to life. Joanne's cinematography and easy going on-set demeanor showcased customers of the bank in a natural and positive way.",
           "vidPromoImage":"images/Work_Thumbnails/Tell08southcarolina.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/55783105",
@@ -183,7 +183,7 @@
           "vidDirectorOrder":"2"
         },
         {  
-          "vidTitle":"Bank of America 'Diversity & Inclusion'",
+          "vidTitle":"Bank of America<br />'Diversity & Inclusion'",
           "vidAbout":"Bank of America wanted to showcase their diverse range of associates at work in London, New York, Miami and Charlotte.  Joanne filmed and captured the true spirit of the bank's internal program of diversity, inclusion and acceptance.",
           "vidPromoImage":"images/Work_Thumbnails/Tell14boa.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/56124952",
@@ -191,7 +191,7 @@
           "vidDirectorOrder":"2"
         },
         {  
-          "vidTitle":"BMW 'Ultimate Driving Machine' Film",
+          "vidTitle":"BMW<br />'Ultimate Driving Machine' Film",
           "vidAbout":"Helicopter aerials, timelapse cinematography and a first hand look at manufacturing of high precision automobiles blends Joanne's distinct visual style to tell the story of the Ultimate Driving Machine film.",
           "vidPromoImage":"images/Work_Thumbnails/Tell11bmw.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/55785329",
@@ -207,31 +207,31 @@
       "directorHeadshot":"images/director/faces/faceLance.jpg",
       "directorVids":[  
         {  
-          "vidTitle":"University of Akron Catch Energy 2014",
+          "vidTitle":"University of Akron<br />'Catch Energy 2014'",
           "vidAbout":"In this spot, Lance and Bob partnered to create an inspiring message about what the University of Akron offers its students. The university president and actual students were featured passing an orb of energy, via SFX masterfully created  by Lance, to exemplify that all things are possible through the U of A's programs and opportunities.",
           "vidPromoImage":"images/Work_Thumbnails/UniversityOfAkron.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/85738060"
         },
         {  
-          "vidTitle":"Dayton Opera Aida",
+          "vidTitle":"Dayton Opera<br />'Aida'",
           "vidAbout":"Lance's visionary animation skills are showcased in this spot as he builds a virtual museum of antiquities and transports us all the way thorugh time into the here and now. A classic piece of music like Aida is hard to improve upon, but we think Lance's visual interpretation adds a lot of zing to an operatic performance.",
           "vidPromoImage":"images/Work_Thumbnails/DaytonOpera.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/128422721"
         },
         {  
-          "vidTitle":"First Data Apple Pay",
+          "vidTitle":"First Data<br />'Apple Pay'",
           "vidAbout":"It's a classic challenge. How to communicate a detailed B to B concept and keep it engaging? Someday we'll all wonder what we did before Apple Pay. In this spot, Lance's editing and animation skills show us why!",
           "vidPromoImage":"images/Work_Thumbnails/FirstData.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/128881411"
         },
         {  
-          "vidTitle":"Dayton Performing Arts Association New Horizons",
+          "vidTitle":"Dayton Performing Arts Association<br />'New Horizons'",
           "vidAbout":"Lance's visual artistry and editing intellect combine forces in this epic concept creatively compacted into a 30 second spot. By animating clips of the client's show and performance offerings into orbs that seemingly fly off the screen past the viewer, you can't help but want to watch the whole piece. And see a movie or a show in Dayton!",
           "vidPromoImage":"images/Work_Thumbnails/DaytonPAA.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/128883824"
         },
         {  
-          "vidTitle":"Olay 'Daily Facials'",
+          "vidTitle":"Olay<br />'Daily Facials'",
           "vidAbout":"P&G sets an extremely high standard of quality for their products and their advertising. This spot for Olay 'Daily Facials' highlights Lance's artistry as a film editor as well as a graphic artist. He deftly handles both duties here.",
           "vidPromoImage":"images/Work_Thumbnails/Tell03olay.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/56100348",
@@ -239,7 +239,7 @@
           "vidDirectorOrder":"3"
         },
         {  
-          "vidTitle":"CSU 'Kinetic Type Collection'",
+          "vidTitle":"CSU<br />'Kinetic Type Collection'",
           "vidAbout":"Lance collaborated with Director Bob Egle on a series of these motion graphic spots for Cleveland State University. The two spots shown here are great examples of Lance's skills when it comes to type and graphic manipulation using After Effects.",
           "vidPromoImage":"images/Work_Thumbnails/Tell06csu.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/56100423",
@@ -247,7 +247,7 @@
           "vidDirectorOrder":"3"
         },
         {  
-          "vidTitle":"Marine Corps. 'Toys for Tots'",
+          "vidTitle":"Marine Corps<br />'Toys for Tots'",
           "vidAbout":"Great visual storytelling is what exemplifies this spot for 'Toys For Tots'. It’s not chock full of special effects and visual gimmickry. Lance shows off his skills using beautifully crafted edits to tell this Christmastime story.",
           "vidPromoImage":"images/Work_Thumbnails/Tell09marines.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/56100049",
@@ -255,7 +255,7 @@
           "vidDirectorOrder":"3"
         },
         {  
-          "vidTitle":"CSCC 'Where The World Is Going'",
+          "vidTitle":"CSCC<br />'Where The World Is Going'",
           "vidAbout":"Editor Lance Moody collaborated with director Bob Egle in this spot for CSCC that features a combination of portrait shots, slice of life and time lapse to show the diverse range of career choices and fields of study at Columbus State.",
           "vidPromoImage":"images/Work_Thumbnails/Tell19cscc.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/56100346",
@@ -263,7 +263,7 @@
           "vidDirectorOrder":"3"
         },
         {  
-          "vidTitle":"Swiffer 'Carpet Flick'",
+          "vidTitle":"Swiffer<br />'Carpet Flick'",
           "vidAbout":"There is a lot going on in this P&G spot for Swiffer 'Carpet Flick'. Not only does Lance handle the basic editorial storytelling duties, but he also executes a number of special effects, motion graphics and graphic animation shots that tell the 'Carpet Flick' story.",
           "vidPromoImage":"images/Work_Thumbnails/Tell12swifter.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/56100233",
@@ -271,7 +271,7 @@
           "vidDirectorOrder":"3"
         },
         {  
-          "vidTitle":"Entergy 'Bayou'",
+          "vidTitle":"Entergy<br />'Bayou'",
           "vidAbout":"The Louisiana bayou is the spectacular backdrop to this elegantly told story of life in one of the most hauntingly beautiful parts of our country. Lance's editorial skills as a storyteller shine in this spot for Entergy.",
           "vidPromoImage":"images/Work_Thumbnails/Tell17entergy.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/56100227",
@@ -279,7 +279,7 @@
           "vidDirectorOrder":"3"
         },
         {  
-          "vidTitle":"Charmin 'Puffs Hold Up'",
+          "vidTitle":"Charmin<br />'Puffs Hold Up'",
           "vidAbout":"Demonstration spots are a hallmark of P&G advertising. Lance has blended many subtle touches into this fifteen second spot for Charmin. The spot not only demonstrates the strength of Charmin tissue, but also shows off Lances skills in motion graphics and effects.",
           "vidPromoImage":"images/Work_Thumbnails/Tell18charmin.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/56100350",
@@ -287,7 +287,7 @@
           "vidDirectorOrder":"3"
         },
         {  
-          "vidTitle":"Crest 'Gum Care'",
+          "vidTitle":"Crest<br />'Gum Care'",
           "vidAbout":"Lance's artistry as a film editor is highlighted in this P&G testimonial spot for Crest 'Gum Care'.",
           "vidPromoImage":"images/Work_Thumbnails/Tell15crest.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/56100055",
@@ -309,7 +309,7 @@
           "vidVimeoLink":"http://player.vimeo.com/video/128429838"
         },
         {  
-          "vidTitle":"INTEL 'UltraBook' Spec",
+          "vidTitle":"INTEL<br />'UltraBook' Spec",
           "vidAbout":"This spec spot for Intel is a hilarious example of Carter's penchant for simple storytelling and humorous dialogue. He knows how to milk a funny situation and get the most from his actors.",
           "vidPromoImage":"images/Work_Thumbnails/tellIntel.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/66587903",
@@ -317,13 +317,13 @@
           "vidDirectorOrder":"4"
         },
         {  
-          "vidTitle":"Klever Logic Park It",
+          "vidTitle":"Klever Logic<br />'Park It'",
           "vidAbout":"Carter's myriad comedic talents are showcased in this spot for Klever Logic. Excellent direction and timing will have you laughing all the way as you watch our driver's urban navigation stress subside with the aid of Smart Stations parking options.",
           "vidPromoImage":"images/Work_Thumbnails/KleverLogic.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/128877634"
         },
         {  
-          "vidTitle":"Paramour Bikes Made with Love in ATX",
+          "vidTitle":"Paramour Bikes<br />'Made with Love in ATX'",
           "vidAbout":"Of course, a bike brand named 'Paramour' is pretty alluring. But to then understand the passion and beauty of this hand-built brand through Carter's vision, one quickly falls in love with the one-man company, based in Austin, TX.",
           "vidPromoImage":"images/Work_Thumbnails/Paramour.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/128880579"
@@ -337,7 +337,7 @@
       "directorHeadshot":"images/director/faces/faceKevin.jpg",
       "directorVids":[  
         {  
-          "vidTitle":"Doritos Sling Baby",
+          "vidTitle":"Doritos<br />'Sling Baby'",
           "vidAbout":"Kevin's direction not only shows his gift for humorous storytelling, but also his exceptional attention to detail in each and every shot. No wonder this spot was voted #1 for 'Most Liked' and 'Most Remembered' by Neilson when it aired on the Super Bowl.",
           "vidPromoImage":"images/Work_Thumbnails/tellSling.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/65767078",
@@ -353,7 +353,7 @@
           "vidDirectorOrder":"5"
         },
         {  
-          "vidTitle":"UPDCP Bear Traps",
+          "vidTitle":"UPDCP<br />'Bear Traps'",
           "vidAbout":"Kevin takes a completely unexpected and cleverly comedic approach to the serious message of pharmaceutical abuse.  Take a look at his awesome attention to detail in the art direction and his skillful storytelling in this offbeat spot for the state of Utah.",
           "vidPromoImage":"images/Work_Thumbnails/tellBear.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/65774841",
@@ -361,7 +361,7 @@
           "vidDirectorOrder":"5"
         },
         {  
-          "vidTitle":"PepsiMax Office Breaks",
+          "vidTitle":"PepsiMax<br />'Office Breaks'",
           "vidAbout":"This spot is completely over-the-top and just plain fun.  Kevin pulls out all the comedic stops with his characters, set ups, and dialogue.  The result is a laugh-out-loud experience that works exceptionally well for the Pepsi Max brand.",
           "vidPromoImage":"images/Work_Thumbnails/tellPepsi.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/69892425",
@@ -376,19 +376,19 @@
       "directorHeadshot":"images/director/faces/faceBeth.jpg",
       "directorVids":[  
         {
-          "vidTitle":"Nationwide Children's Hospital Everyone Matters",
+          "vidTitle":"Nationwide Children's Hospital<br />'Everyone Matters'",
           "vidAbout":"Beth's editing skills come to light in this fast-paced internal corporate video. She found magical cut points to integrate many different speakers' statements into a cohesive message with a natural flow.",
           "vidPromoImage":"images/Work_Thumbnails/NationwideChildrens_Everyone.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/130555655"
         },
         {
-          "vidTitle":"Leslie Craig Self Music Promotion",
+          "vidTitle":"Leslie Craig<br />'Self Music Promotion'",
           "vidAbout":"In this video promoting a musician, Beth's sensitive side comes out in her choices. The subject, Leslie is a fascinating woman and through this artful piece, we can't help but wish her well on her musical journey!",
           "vidPromoImage":"images/Work_Thumbnails/LeslieCraig.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/32805661"
         },
         {
-          "vidTitle":"Luxoticca DAAP Webisodes 1 and 5 of 5",
+          "vidTitle":"Luxoticca<br />'DAAP Webisodes'",
           "vidAbout":"In this series of 5 webisodes, Beth rises to the challenge by cutting a semester's worth of footage into a series of short pieces. She maintains the students' enthusiasm and excitement as they pursue the unique opportunity of designing eyewear for LensCrafters and attempting to win scholarship awards in the process!",
           "vidPromoImage":"images/Work_Thumbnails/Luxoticca_1.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/130280825"

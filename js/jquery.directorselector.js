@@ -148,8 +148,6 @@
 		$.getJSON('directordata.json', function(data) {
 			
 			$.each(data.directorsArray, function(key, val) {
-
-				console.log(val);
 	
 				var cacheImage = document.createElement('img');
 				cacheImage.src = val.directorHeadshot;
@@ -199,12 +197,15 @@
 			});
 			
 			//movies.sort(function(a,b) { return parseFloat(a.key) - parseFloat(b.key) } );
-			//shuffle(movies);
+
+			// Randomly sort the first 8, then display the rest in order.
+			movies = $.merge(shuffle(movies.slice(0,8)), movies.slice(8));
 			var movieList = [];	
 			 $.each(movies, function(c, d) {
                                movieList.push(d.value);
                        });
-					   $('#directorNav li ul').append($('<li>').append( $('<a>').attr('href','#').addClass("showAllDirs").addClass("classy2").click(function(){ $.fn.directorselector.loadAllVids(); return false; }).html("View All Work") ));	
+					   $('#directorNav li ul').append($('<li>').append( $('<a>').attr('href','#').addClass("showAllDirs").addClass("classy2").click(function(){ $.fn.directorselector.loadAllVids(); return false; }).html("View All Work") ));
+
 			$('<ul/>', { html: movieList.join('')}).appendTo('#director-carousel');
 			
 			$('#director-carousel').append('<div class="upDown"><div class="down tempDown" rel="0"><div class="down2"><img src="images/down.gif"/></div></div><div class="up" rel="0"><div class="up2"><img src="images/up.gif"/></div></div></div><div class="vimeoLink"><a href="http://vimeopro.com/tellcollective/tell-collective-portfolio" target="_blank"><img src="images/vimeo2.gif" class="hover"></a></div>');
@@ -320,6 +321,8 @@
 	
 	
     $.fn.directorselector.loadDirectorVids = function(arrayLoc){
+
+    	console.log('loadDirectorVids');
  
 		var it = 0;
 		$.getJSON('directordata.json', function(data) {

@@ -293,7 +293,7 @@
 					
 					if (movit == arrayLoc[2]){
 						
-						$("#previewTitle").text(val1.vidTitle).hide().delay(200).fadeIn(200);
+						$("#previewTitle").text(val1.vidTitle.replace('<br />', ' ')).hide().delay(200).fadeIn(200);
 						
 						$("#vidFrame").attr('src', val1.vidVimeoLink + "?api=1").fadeIn(200);
 						

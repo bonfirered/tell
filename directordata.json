@@ -81,6 +81,12 @@
       "directorHeadshot":"images/director/faces/faceBob.jpg",
       "directorVids":[  
         {  
+          "vidTitle":"AEP Ohio<br />'Pablo General'",
+          "vidAbout":"In this : 30 spot, the President and CEO of AEP Ohio introduces the message of how AEP Ohio strives to always be there for customers and also suggests some ideas for energy efficiency.  This includes an overview of 5 additional spots Tell captured for the broadcast campaign.",
+          "vidPromoImage":"images/Work_Thumbnails/AEP_Pablo.jpg",
+          "vidVimeoLink":"https://player.vimeo.com/video/133665949"
+        },
+        {  
           "vidTitle":"PPG<br />'Pittsburgh Paints'",
           "vidAbout":"Paint, it's not just for walls anymore. Or so you might think in this exciting piece Bob directed to express the energy of two classic brands, Devoe and PPG paints, coming together to form one powerhouse brand, PPG Pittsburgh. The Tell team used a Phantom Flex to capture paint at 1200 fps. And yes, the camera did remain splatter free.",
           "vidPromoImage":"images/Work_Thumbnails/PPG.jpg",
@@ -118,12 +124,20 @@
           "vidPromoImage":"images/Work_Thumbnails/DonatosMoveIn.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/129905602"
         },
+         {  
+          "vidTitle":"AEP Ohio<br />'Multitasking'",
+          "vidAbout":"How many electronics does a typical teen use at any given moment?  AEP Ohio wants to be there for all their customers' needs.  In this : 30 spot, we see a typical teen in his bedroom and realize just how much he depends on electricity - for daily life, communications, school and yes, gaming!",
+          "vidPromoImage":"images/Work_Thumbnails/AEP_Multitasking.jpg",
+          "vidVimeoLink":"https://player.vimeo.com/video/133666365",
+          "vidPageOrder":"11",
+          "vidDirectorOrder":"1"
+        },
         {  
           "vidTitle":"LP SmartSide<br />'Storm Force Striker'",
           "vidAbout":"The Storm Force Striker cannon was built exclusively for this shoot. It was designed to hurl golf balls at hurricane force wind speeds into house siding. The impact shots were filmed at 1500 FPS using the Phantom HD camera.",
           "vidPromoImage":"images/Work_Thumbnails/tellStorm.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/66272074",
-          "vidPageOrder":"11",
+          "vidPageOrder":"12",
           "vidDirectorOrder":"1"
         },
         {  

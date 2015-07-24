@@ -203,7 +203,7 @@
 			//movies.sort(function(a,b) { return parseFloat(a.key) - parseFloat(b.key) } );
 
 			// Randomly sort the first 8, then display the rest in order.
-			movies = $.merge(shuffle(movies.slice(0,8)), movies.slice(8));
+			//movies = $.merge(shuffle(movies.slice(0,8)), movies.slice(8));
 			var movieList = [];	
 			 $.each(movies, function(c, d) {
                                movieList.push(d.value);
@@ -325,19 +325,17 @@
 	
 	
     $.fn.directorselector.loadDirectorVids = function(arrayLoc){
-
-    	console.log('loadDirectorVids');
  
-		var it = 0;
-		$.getJSON('directordata.json', function(data) {
-			$.each(data.directorsArray, function(key, val) {
-				if (it == arrayLoc){
-				
-					$('.selectedDirector').text(val.directorName);
-				}  
-				it++;
+			var it = 0;
+			$.getJSON('directordata.json', function(data) {
+				$.each(data.directorsArray, function(key, val) {
+					if (it == arrayLoc){
+					
+						$('.selectedDirector').text(val.directorName);
+					}  
+					it++;
+				});
 			});
-		});
  
     	$('#director-carousel').fadeOut( 600, function(){
     	caro.data('carousel').returnToFirstPage();

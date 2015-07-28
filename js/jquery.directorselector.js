@@ -1,6 +1,6 @@
 (function($){
 
-
+		var evenOrOdd = Math.floor(Math.random()*(2-1+1)+1);
 	
 
     $.directorselector = function(el){
@@ -152,49 +152,68 @@
 				var cacheImage = document.createElement('img');
 				cacheImage.src = val.directorHeadshot;
 	
-				$('#directorNav li ul').append(
-				$('<li>').append(
-							$('<a>').attr('href','#').addClass("dir_"+it).addClass("classy2").click(
-								function(event){
-									event.preventDefault();
-									var classes = $(this).attr('class').split(" ");
-									for ( var i = 0, l = classes.length; i<l; ++i ) {
-										if (classes[i].substring(0,4) == "dir_"){
-											var arrayLoc = classes[i].split("_");
-											$.fn.directorselector.loadDirectorVids(arrayLoc[1]);
-											
+				if(val.directorName !== 'Landing Page') {
+
+					$('#directorNav li ul').append(
+					$('<li>').append(
+								$('<a>').attr('href','#').addClass("dir_"+it).addClass("classy2").click(
+									function(event){
+										event.preventDefault();
+										var classes = $(this).attr('class').split(" ");
+										for ( var i = 0, l = classes.length; i<l; ++i ) {
+											if (classes[i].substring(0,4) == "dir_"){
+												var arrayLoc = classes[i].split("_");
+												$.fn.directorselector.loadDirectorVids(arrayLoc[1]);
+												
+											}
+											var ulHeight = $('.mask ul').height();
+												rowNumbers = ulHeight/ 320;
+												$('.down').addClass('tempDown');
+												$('.tempDown').attr('rel',rowNumbers);
+												$('.up').attr('rel', '0');
+												setTimeout( function(){
+	      											$('.mask ul').css({top: '0'});
+	   											},600);
+												
+												return rowNumbers;
 										}
-										var ulHeight = $('.mask ul').height();
-											rowNumbers = ulHeight/ 320;
-											$('.down').addClass('tempDown');
-											$('.tempDown').attr('rel',rowNumbers);
-											$('.up').attr('rel', '0');
-											setTimeout( function(){
-      											$('.mask ul').css({top: '0'});
-   											},600);
 											
-											return rowNumbers;
+										return false;
 									}
-										
-									return false;
-								}
-							).html("<label class='directorListName'><span>" + val.directorName + "</span></label>" )));
-				it++;
-				
-				var movit = 0;
-			
-				$.each(val.directorVids, function(key1, val1) {
+								).html("<label class='directorListName'><span>" + val.directorName + "</span></label>" )));
+					it++;
+					
+					var movit = 0;
 
-					var hideInAll = '<li>';
-					if(val1.hideInAll) {
-						var hideInAll = '<li class="hideinall">';
-					}
+				}
 
-                                       
-                                       movies.push({'key': val1.vidPageOrder, 'value': hideInAll + '<div class="hoverEffect" id="mov_' + it + "_" + movit + '"><div class="hoverTitle">'+val1.vidTitle+'</div><span>'+ val.directorName + '</span></div><img class="vidPromoImg" src="'+val1.vidPromoImage+'" /></li>'});
+					$.each(val.directorVids, function(key1, val1) {
 
-					movit++;
+						if(val.directorName == 'Landing Page') {
+							if(evenOrOdd == 1 && val1.vidPageOrder % 1) { // marker is odd but number is even
+								return;
+							}
+							if(evenOrOdd == 2 && val1.vidPageOrder % 2) { // marker is even but number is odd
+								return;
+							}
+						}
 
+						var hideInAll = '<li>';
+						if(val1.hideInAll) {
+							var hideInAll = '<li class="hideinall">';
+						}
+
+						console.log(val1.directorName);
+						if(typeof val1.directorName !== "undefined"){
+							var director = val1.directorName;
+						} else {
+							console.log('testtt');
+							var director = val.directorName;
+						}
+	                                       
+	                                       movies.push({'key': val1.vidPageOrder, 'value': hideInAll + '<div class="hoverEffect" id="mov_' + it + "_" + movit + '"><div class="hoverTitle">'+val1.vidTitle+'</div><span>'+ director + '</span></div><img class="vidPromoImg" src="'+val1.vidPromoImage+'" /></li>'});
+
+						movit++;
 
 			});
 				
@@ -204,6 +223,7 @@
 
 			// Randomly sort the first 8, then display the rest in order.
 			//movies = $.merge(shuffle(movies.slice(0,8)), movies.slice(8));
+			movies = $.merge(shuffle(movies.slice(-8)), movies.slice(0, movies.length - 8));
 			var movieList = [];	
 			 $.each(movies, function(c, d) {
                                movieList.push(d.value);

@@ -181,20 +181,21 @@
 										return false;
 									}
 								).html("<label class='directorListName'><span>" + val.directorName + "</span></label>" )));
-					it++;
-					
-					var movit = 0;
 
 				}
+
+				it++;
+
+				var movit = 0;
 
 					$.each(val.directorVids, function(key1, val1) {
 
 						if(val.directorName == 'Landing Page') {
 							if(evenOrOdd == 1 && val1.vidPageOrder % 1) { // marker is odd but number is even
-								return;
+								movit++; return;
 							}
 							if(evenOrOdd == 2 && val1.vidPageOrder % 2) { // marker is even but number is odd
-								return;
+								movit++; return;
 							}
 						}
 
@@ -203,11 +204,9 @@
 							var hideInAll = '<li class="hideinall">';
 						}
 
-						console.log(val1.directorName);
 						if(typeof val1.directorName !== "undefined"){
 							var director = val1.directorName;
 						} else {
-							console.log('testtt');
 							var director = val.directorName;
 						}
 	                                       
@@ -222,7 +221,6 @@
 			//movies.sort(function(a,b) { return parseFloat(a.key) - parseFloat(b.key) } );
 
 			// Randomly sort the first 8, then display the rest in order.
-			//movies = $.merge(shuffle(movies.slice(0,8)), movies.slice(8));
 			var landingPage = shuffle(movies.slice(-16));
 			movies = $.merge(shuffle(landingPage.slice(-8)), movies.slice(0, movies.length - 8));
 			var movieList = [];	

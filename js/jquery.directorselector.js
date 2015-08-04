@@ -1,7 +1,6 @@
 (function($){
 
 		var evenOrOdd = Math.floor(Math.random()*(2-1+1)+1);
-	
 
     $.directorselector = function(el){
 
@@ -189,14 +188,11 @@
 				var movit = 0;
 
 					$.each(val.directorVids, function(key1, val1) {
-
-						if(val.directorName == 'Landing Page') {
-							if(evenOrOdd == 1 && val1.vidPageOrder % 1) { // marker is odd but number is even
-								movit++; return;
-							}
-							if(evenOrOdd == 2 && val1.vidPageOrder % 2) { // marker is even but number is odd
-								movit++; return;
-							}
+						
+						// If landing page, only show the 'even' videos if
+						// the evenOrOdd variable is set to even and vice versa
+						if(val.directorName == 'Landing Page' && (evenOrOdd == 1 && !isOdd(val1.vidPageOrder)) || (evenOrOdd == 2 && isOdd(val1.vidPageOrder))) {
+							movit++; return;
 						}
 
 						var hideInAll = '<li>';
@@ -221,8 +217,8 @@
 			//movies.sort(function(a,b) { return parseFloat(a.key) - parseFloat(b.key) } );
 
 			// Randomly sort the first 8, then display the rest in order.
-			var landingPage = shuffle(movies.slice(-16));
-			movies = $.merge(shuffle(landingPage.slice(-8)), movies.slice(0, movies.length - 8));
+			var landingPage = shuffle(movies.slice(-8));
+			movies          = $.merge(landingPage.slice(-8), shuffle(movies.slice(0, movies.length - 8)));
 			var movieList = [];	
 			 $.each(movies, function(c, d) {
                                movieList.push(d.value);
@@ -427,5 +423,7 @@
 
       return array;
     } 
+
+    function isOdd(num) { return num % 2;}
     
 })(jQuery);

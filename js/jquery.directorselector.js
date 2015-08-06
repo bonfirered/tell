@@ -303,6 +303,12 @@
 						var dir      = val.directorVids[arrayLoc[2]];
 						var dir2     = data.directorsArray[key];
 						directorName = dir.directorName;
+
+						if(directorName == 'Corporate Work') {
+							$('body').attr('class', 'corporate-work');
+						} else {
+							$('body').removeAttr('class');
+						}
 						$.each(data.directorsArray, function(key, value) {
 							if(value.directorName == directorName) {
 								bioPersonTitle   = value.directorTitle;

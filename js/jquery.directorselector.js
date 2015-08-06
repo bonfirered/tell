@@ -294,14 +294,34 @@
 		$.getJSON('directordata.json', function(data) {
 		
 			$.each(data.directorsArray, function(key, val) {
+
+				var directorName, bioPersonTitle, bioContent;
 	
 				if (it == (parseInt(arrayLoc[1]) - 1)){
 				
-					$("#previewSubTitle").text(val.directorName).hide().delay(300).fadeIn(400);
-					$("#bioPersonTitle").text(val.directorTitle);
-					$("#bioPersonName").text(val.directorName);
-					$("#bioContent").html(val.directorBio);
-					$("#facePanel img").attr('src', val.directorHeadshot).hide().delay(300).fadeIn(400);
+					if(val.directorName == 'Landing Page') {
+						var dir      = val.directorVids[arrayLoc[2]];
+						var dir2     = data.directorsArray[key];
+						directorName = dir.directorName;
+						$.each(data.directorsArray, function(key, value) {
+							if(value.directorName == directorName) {
+								bioPersonTitle   = value.directorTitle;
+								bioContent       = value.directorBio;
+								directorHeadshot = value.directorHeadshot;
+							}
+						});
+					} else {
+						directorName     = val.directorName;
+						bioPersonTitle   = val.directorTitle;
+						bioContent       = val.directorBio;
+						directorHeadshot = val.directorHeadshot;
+					}
+
+					$("#previewSubTitle").text(directorName).hide().delay(300).fadeIn(400);
+					$("#bioPersonTitle").text(bioPersonTitle);
+					$("#bioPersonName").text(directorName);
+					$("#bioContent").html(bioContent);
+					$("#facePanel img").attr('src', directorHeadshot).hide().delay(300).fadeIn(400);
 				
 					var movit = 0;
 					$.each(val.directorVids, function(key1, val1) {

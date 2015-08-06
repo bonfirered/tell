@@ -218,7 +218,7 @@
 
 			// Randomly sort the first 8, then display the rest in order.
 			var landingPage = shuffle(movies.slice(-8));
-			movies          = $.merge(landingPage.slice(-8), shuffle(movies.slice(0, movies.length - 8)));
+			movies          = $.merge(landingPage.slice(-8), movies.slice(0, movies.length - 8));
 			var movieList = [];	
 			 $.each(movies, function(c, d) {
                                movieList.push(d.value);

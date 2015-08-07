@@ -401,7 +401,51 @@
           <div style="float: left; width: 400px;">
             <div class="FBLink1">What we are up to.</div>
             <div id="wall" class="facebookWall">
-              <script type="text/javascript" src="http://output28.rssinclude.com/output?type=js&amp;id=917714&amp;hash=7e033f09fdf95fecef47a9184e765d03"></script>
+
+              <div id="rssincl-box-917714">
+                 <div class="rssincl-content"><!-- Facebook Feed Goes Here --></div>
+              </div>
+
+              <script type="text/javascript">
+
+                // Facebook SDK
+                window.fbAsyncInit = function() {
+                  FB.init({
+                    appId      : '1614840865321361',
+                    xfbml      : true,
+                    version    : 'v2.4',
+                    access_token : 'a236b0ecc192d1f40b39a4536c53ed19'
+                  });
+
+                  /* make the API call */
+                  FB.api(
+                    "/tellcollective/feed?key=value&access_token=1614840865321361|8bdc720383e865ffb01d62428baf388c",
+                    function (response) {
+                      if (response && !response.error) {
+                        $.each(response.data, function(i, val) {
+                          console.log(val);
+                          var d    = new Date(val.created_time),
+                              day  = d.getDate(),
+                              mon  = d.getMonth(),
+                              year = d.getFullYear();
+                          $('.rssincl-content').append('<div class="rssincl-entry"><p class="rssincl-itemdate">' + (mon + 1) + '/' + day + '/' + year + '</p><p class="rssincl-itemtitle"><a href="http://www.facebook.com/' + val.id + '" target="_blank">' + val.message + '</a></p><div class="rssincl-clear"></div></div>');
+                          return i < 2;
+                        });
+                      }
+                    }
+                  );
+                };
+
+                (function(d, s, id){
+                   var js, fjs = d.getElementsByTagName(s)[0];
+                   if (d.getElementById(id)) {return;}
+                   js = d.createElement(s); js.id = id;
+                   js.src = "//connect.facebook.net/en_US/sdk.js";
+                   fjs.parentNode.insertBefore(js, fjs);
+                 }(document, 'script', 'facebook-jssdk'));
+
+              </script>
+
             </div>
             <div class="FBLink2"><a href="https://www.facebook.com/tellcollective" target="_blank"><img src="images/facebookVisit.gif" /></a></div>
             <!-- jQuery templates. Not rendered by the browser. Notice the type attributes 
@@ -562,7 +606,7 @@
         });
       
       });
-       
+
     </script>
     <script src="js/jquery.tmpl.min.js"></script>
     <script src="js/script.js"></script>

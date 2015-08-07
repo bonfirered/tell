@@ -1,7 +1,7 @@
 // JavaScript Document
 $(function() {
 		$(document).ready(function(){
-    $("div.slide").randomize("div.slideImg");
+    //$("div.slide").randomize("div.slideImg");
 	sizeGrow();	  
   });
 });

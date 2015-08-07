@@ -313,6 +313,22 @@
                 <div class="topInfo topInfo2">
                   <img src="images/hoverCircle.png"  class="hoverCircle"/>
                   <div class="bubbleContent">
+                    <h4>Julie</h4>
+                    <div class="bubbleTitle">
+                      Director of Business Relations and Production Management
+                    </div>
+                    <div class="bubbleTrigger">
+                      <img src="images/expand.png"  id="s9"/>                                
+                    </div>
+                  </div>
+                </div>
+                <img src="images/julieSmall.jpg" width="289" height="259" class="smallImg" />
+              </div>
+              <div class="slideImg">
+                <img class="hoverCircle2" src="images/hoverCircle.png">
+                <div class="topInfo topInfo2">
+                  <img src="images/hoverCircle.png"  class="hoverCircle"/>
+                  <div class="bubbleContent">
                     <h4>Jennifer</h4>
                     <div class="bubbleTitle">
                       Producer
@@ -355,22 +371,6 @@
                   </div>
                 </div>
                 <img src="images/lanceSmall.jpg" width="289" height="259" class="smallImg" />
-              </div>
-              <div class="slideImg">
-                <img class="hoverCircle2" src="images/hoverCircle.png">
-                <div class="topInfo topInfo2">
-                  <img src="images/hoverCircle.png"  class="hoverCircle"/>
-                  <div class="bubbleContent">
-                    <h4>Julie</h4>
-                    <div class="bubbleTitle">
-                      Director of Business Relations and Production Management
-                    </div>
-                    <div class="bubbleTrigger">
-                      <img src="images/expand.png"  id="s9"/>                                
-                    </div>
-                  </div>
-                </div>
-                <img src="images/julieSmall.jpg" width="289" height="259" class="smallImg" />
               </div>
               <div class="slideImg">
                 <img class="hoverCircle2" src="images/hoverCircle.png">
@@ -423,7 +423,6 @@
                     function (response) {
                       if (response && !response.error) {
                         $.each(response.data, function(i, val) {
-                          console.log(val);
                           var d    = new Date(val.created_time),
                               day  = d.getDate(),
                               mon  = d.getMonth(),

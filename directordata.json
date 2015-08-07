@@ -121,7 +121,8 @@
           "vidTitle":"Telhio<br />'Own It: Cathleen'",
           "vidAbout":"The Tell team worked with Telhio to develop their branding strategy and to create this campaign. In this video, Bob captures a testimonial with an actual customer. Who knew banking was easier when you 'own it?' Cathleen does!",
           "vidPromoImage":"images/Work_Thumbnails/Telhio.jpg",
-          "vidVimeoLink":"http://player.vimeo.com/video/114389504"
+          "vidVimeoLink":"http://player.vimeo.com/video/114389504",
+          "hideInAll":true
         },
         {  
           "vidTitle":"Donato's<br />'Move In Day'",

@@ -182,7 +182,8 @@
           "vidPromoImage":"images/Work_Thumbnails/Luxoticca_1.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/130280825",
           "vidPageOrder":"5",
-          "vidDirectorOrder":"1"
+          "vidDirectorOrder":"1",
+          "hideInAll":true
         },
         {  
           "vidTitle":"Nationwide Children's Hospital<br />'Lauren's Story'",
@@ -228,7 +229,8 @@
           "vidTitle":"PPG<br />'Pittsburgh Paints'",
           "vidAbout":"Paint, it's not just for walls anymore. Or so you might think in this exciting piece Bob directed to express the energy of two classic brands, Devoe and PPG paints, coming together to form one powerhouse brand, PPG Pittsburgh. The Tell team used a Phantom Flex to capture paint at 1200 fps. And yes, the camera did remain splatter free.",
           "vidPromoImage":"images/Work_Thumbnails/PPG.jpg",
-          "vidVimeoLink":"http://player.vimeo.com/video/110792279"
+          "vidVimeoLink":"http://player.vimeo.com/video/110792279",
+          "hideInAll":true
         },
         {  
           "vidTitle":"Donatos<br />'Office'",

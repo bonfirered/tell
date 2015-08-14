@@ -210,6 +210,7 @@
 					if(listOfMovies.indexOf(val1.vidTitle) === -1) {
 						listOfMovies.push(val1.vidTitle);
 					} else {
+						console.log('duplicate!');
 						liTag = '<li class="hideinall">';
 					}
 
@@ -232,8 +233,10 @@
 			//movies.sort(function(a,b) { return parseFloat(a.key) - parseFloat(b.key) } );
 
 			// Randomly sort the first 8, then display the rest in order.
-			var landingPage = shuffle(movies.slice(0,16));
-			movies          = $.merge(movies.slice(0, movies.length - 8), landingPage.slice(0,8));
+			console.log(movies.length);
+			var landingPage = shuffle(movies.slice(0,8));
+			//movies          = $.merge(landingPage.slice(0,8), movies.slice(16, movies.length));
+			movies          = $.merge(landingPage, movies.slice(8, movies.length));
 			var movieList = [];	
 			 $.each(movies, function(c, d) {
                                movieList.push(d.value);
@@ -401,6 +404,10 @@
 			$('.mask li').each(function(index) {
 			
 				var obj = $('.mask li .hoverEffect')[index];
+
+				console.log($(obj).attr("id"));
+				console.log($(obj).attr("id").split("_")[1]);
+				console.log((parseInt(arrayLoc) + 1));
 				
 				if ($(obj).attr("id").split("_")[1] != (parseInt(arrayLoc) + 1))
 				{
@@ -430,10 +437,15 @@
 	    	var movies = [];
 			
 				$('.mask li').each(function(index) {
-					if($(this).hasClass('hideinall')) {
-						$(this).css('display', 'none');
-					} else {
+					/*if($(this).hasClass('hideinall')) {
 						$(this).css('display', 'block');
+					} else {
+						$(this).css('display', 'none');
+					}*/
+					if(!$(this).hasClass('hideinall')) {
+						$(this).css("display","block");
+					} else {
+						$(this).css("display","none");
 					}
 				});
 				

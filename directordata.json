@@ -1,6 +1,141 @@
 {  
   "directorsArray":[  
     {  
+      "directorName":"Landing Page",
+      "directorTitle":"",
+      "directorHeadshot":"",
+      "directorVids":[  
+        {  
+          "directorName":"Directed by: Bob Egle",
+          "vidTitle":"Donatos<br />'Office'",
+          "vidAbout":"In this : 30 spot, Donatos pizza is a very important piece of the brainstorming session as this office group lands on the big idea they've been seeking. Careful propping, glorious food shots and elegant lighting of the company's Chairwoman combine to create immediate impact.",
+          "vidPromoImage":"images/Work_Thumbnails/DonatosOffice.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/131211476",
+          "vidPageOrder":"1"
+        },
+        {  
+          "directorName":"Directed by: Bob Egle",
+          "vidTitle":"Donatos<br />'Move In Day'",
+          "vidAbout":"The challenge in this spot was to show pizza as a welcome respite from the lunacy of moving day. A perfect location, concise script, high-quality VO and glorious food shots come together with Bobs insightful direction to communicate that sometimes, Donatos pizza is the best rewarding end to an exhausting day!",
+          "vidPromoImage":"images/Work_Thumbnails/DonatosMoveIn.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/129905602",
+          "vidPageOrder":"2"
+        },
+        {  
+          "directorName":"Directed by: Bob Egle",
+          "vidTitle":"PPG<br />'Pittsburgh Paints'",
+          "vidAbout":"Paint, it's not just for walls anymore.  Or so you might think in this exciting piece Bob directed to express the energy of two classic brands, Devoe and PPG paints, coming together to form one powerhouse brand, PPG Pittsburgh. The Tell team used a Phantom Flex to capture paint at 1200 fps.  And yes, the camera did remain splatter free.",
+          "vidPromoImage":"images/Work_Thumbnails/PPG.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/110792279",
+          "vidPageOrder":"3"
+        },
+        {  
+          "directorName":"Directed by: Bob Egle",
+          "vidTitle":"Daikin<br />'The Seeker'",
+          "vidAbout":"To announce the merger of two HVAC brands and inspire excitement at the client's annual sales meeting, Bob utilizes dramatic cinematography techniques as he follows an expertly cast \"Seeker\" from extreme climates - deserts to mountains and cityscapes to rural roads, until he finally finds the ideal cozy environment in a suburban home.",
+          "vidPromoImage":"images/Work_Thumbnails/Daikin.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/78224081",
+          "vidPageOrder":"4"
+        },
+        {  
+          "directorName":"Corporate Work",
+          "vidTitle":"Nationwide Children's Hospital<br />'Board'",
+          "vidAbout":"What an honor to be asked to help tell the story of the good work being done at Nationwide Children's Hospital.  Utilizing existing footage in addition to shooting new live action, Tell also brought NCH's logo to life by animating a butterfly throughout this video to create an engaging visual element.",
+          "vidPromoImage":"images/Work_Thumbnails/NationwideChildrensHospital_Board.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/129906426",
+          "vidPageOrder":"5"
+        },
+        {
+          "directorName":"Edited by: Beth Edwards",
+          "vidTitle":"Nationwide Children's Hospital<br />'Everyone Matters'",
+          "vidAbout":"Beth's editing skills come to light in this fast-paced internal corporate video. She found magical cut points to integrate many different speakers' statements into a cohesive message with a natural flow.",
+          "vidPromoImage":"images/Work_Thumbnails/NationwideChildrens_Everyone.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/130555655",
+          "vidPageOrder":"6"
+        },
+        {  
+          "directorName":"Corporate Work",
+          "vidTitle":"Ohio Dairy Farmers<br />'Farm to Fridge'",
+          "vidAbout":"In a playful yet strategically-designed animation, Tell explains how your favorite dairy products get from the farm to your refrigerator. Cute cows and a jaunty tune help keep the mood light while the serious issue of food safety is addressed.",
+          "vidPromoImage":"images/Work_Thumbnails/OhioDairyFarmers.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/127825422",
+          "vidPageOrder":"7"
+        },
+        {  
+          "directorName":"Corporate Work",
+          "vidTitle":"Luxottica<br />'Digital Experience'",
+          "vidAbout":"With a combo of live action and animated graphics, plus brand enhancing music, Tell worked closely with the Luxottica team to shoot and edit this piece resulting in an engaging explanation of a potentially confusing process...from getting an eye exam to fitting frames. ",
+          "vidPromoImage":"images/Work_Thumbnails/Luxoticca_0.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/86552531",
+          "vidPageOrder":"8"
+        },
+        {  
+          "directorName":"Directed by: Bob Egle",
+          "vidTitle":"AEP Ohio<br />'Multitasking'",
+          "vidAbout":"How many electronics does a typical teen use at any given moment?  AEP Ohio wants to be there for all their customers' needs.  In this : 30 spot, we see a typical teen in his bedroom and realize just how much he depends on electricity - for daily life, communications, school and yes, gaming!",
+          "vidPromoImage":"images/Work_Thumbnails/AEP_Multitasking.jpg",
+          "vidVimeoLink":"https://player.vimeo.com/video/133666365",
+          "vidPageOrder":"9"
+        },
+        {  
+          "directorName":"Edited by: Lance Moody",
+          "vidTitle":"Dayton Opera<br />'Aida'",
+          "vidAbout":"Lance's visionary animation skills are showcased in this spot as he builds a virtual museum of antiquities and transports us all the way through time into the here and now. A classic piece of music like Aida is hard to improve upon, but we think Lance's visual interpretation adds a lot of zing to an operatic performance.",
+          "vidPromoImage":"images/Work_Thumbnails/DaytonOpera.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/128422721",
+          "vidPageOrder":"10"
+        },
+        {  
+          "directorName":"Directed by: Carter Pagel",
+          "vidTitle":"Tarn-X Not What You Think",
+          "vidAbout":"Quirky, uncluttered and quick. This : 30 second spot for Tarn-X derives its humor from ironic dialog and a retro styling vibe. Carter partners closely with his actors to pull off this string of zingers resulting in sheer hilarity.",
+          "vidPromoImage":"images/Work_Thumbnails/TarnX.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/128429838",
+          "vidPageOrder":"11"
+        },
+        {  
+          "directorName":"Directed by: Carter Pagel",
+          "vidTitle":"INTEL<br />'UltraBook' Spec",
+          "vidAbout":"This spec spot for Intel is a hilarious example of Carter's penchant for simple storytelling and humorous dialogue. He knows how to milk a funny situation and get the most from his actors.",
+          "vidPromoImage":"images/Work_Thumbnails/tellIntel.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/66587903",
+          "vidPageOrder":"12"
+        },
+        {  
+          "directorName":"Directed by: Kevin Willson",
+          "vidTitle":"Doritos<br />'Sling Baby'",
+          "vidAbout":"Kevin's direction not only shows his gift for humorous storytelling, but also his exceptional attention to detail in each and every shot. No wonder this spot was voted #1 for 'Most Liked' and 'Most Remembered' by Nielsen when it aired on the Super Bowl.",
+          "vidPromoImage":"images/Work_Thumbnails/tellSling.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/65767078",
+          "vidPageOrder":"13"
+        },
+        {  
+          "directorName":"Directed by: Kevin Willson",
+          "vidTitle":"UPDCP<br />'Bear Traps'",
+          "vidAbout":"Kevin takes a completely unexpected and cleverly comedic approach to the serious message of pharmaceutical abuse.  Take a look at his awesome attention to detail in the art direction and his skillful storytelling in this offbeat spot for the state of Utah.",
+          "vidPromoImage":"images/Work_Thumbnails/tellBear.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/65774841",
+          "vidPageOrder":"14"
+        },
+        {  
+          "directorName":"Directed by: Bob Egle",
+          "vidTitle":"South Jersey Hospital<br />'Better Everyday'",
+          "vidAbout":"The challenge of this spot was to capture a glimpse of what makes the South Jersey community tick. Bob did extensive local casting and scouting to find real South Jersey residents whose lives are impacted by the great work done by the hospital.",
+          "vidPromoImage":"images/Work_Thumbnails/Tell01southjersey.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/55775122",
+          "vidPageOrder":"15"
+        },
+        {  
+          "directorName":"Directed by: Bob Egle",
+          "vidTitle":"Telhio<br />'Own It: Cathleen'",
+          "vidAbout":"The Tell team worked with Telhio to develop their branding strategy and to create this campaign. In this video, Bob captures a testimonial with an actual customer. Who knew banking was easier when you 'own it?' Cathleen does!",
+          "vidPromoImage":"images/Work_Thumbnails/Telhio.jpg",
+          "vidVimeoLink":"http://player.vimeo.com/video/114389504",
+          "vidPageOrder":"16"
+        }
+      ]
+    },
+    {  
       "directorName":"Corporate Work",
       "directorTitle":"",
       "directorBio":"What truly sets TELL apart is our unique ability to collaborate with our corporate clients as an extension of their marketing and communications team.<br /><br />We strive to understand our client’s Brand: position, identity, guidelines.  Whether it’s for internal or external content, we partner with our clients from concept and scriptwriting through live action acquisition and post production to create powerful and effective video content.",
@@ -125,7 +260,7 @@
           "hideInAll":true
         },
         {  
-          "vidTitle":"Donato's<br />'Move In Day'",
+          "vidTitle":"Donatos<br />'Move In Day'",
           "vidAbout":"The challenge in this spot was to show pizza as a welcome respite from the lunacy of moving day. A perfect location, concise script, high-quality VO and glorious food shots come together with Bobs insightful direction to communicate that sometimes, Donatos pizza is the best rewarding end to an exhausting day!",
           "vidPromoImage":"images/Work_Thumbnails/DonatosMoveIn.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/129905602",
@@ -427,141 +562,6 @@
           "vidAbout":"Following one man though many locations, cutting this video could have been a challenge. But not for Beth. Her sense of visual connection helps relay the subject's message that through many small acts of kindness, we can enhance our collective humanity...starting with something as simple as stepping back from the baggage claim.",
           "vidPromoImage":"images/Work_Thumbnails/BaggageClaim.jpg",
           "vidVimeoLink":"http://player.vimeo.com/video/29683111"
-        }
-      ]
-    },
-    {  
-      "directorName":"Landing Page",
-      "directorTitle":"",
-      "directorHeadshot":"",
-      "directorVids":[  
-        {  
-          "directorName":"Directed by: Bob Egle",
-          "vidTitle":"Donatos<br />'Office'",
-          "vidAbout":"In this : 30 spot, Donatos pizza is a very important piece of the brainstorming session as this office group lands on the big idea they've been seeking. Careful propping, glorious food shots and elegant lighting of the company's Chairwoman combine to create immediate impact.",
-          "vidPromoImage":"images/Work_Thumbnails/DonatosOffice.jpg",
-          "vidVimeoLink":"http://player.vimeo.com/video/131211476",
-          "vidPageOrder":"1"
-        },
-        {  
-          "directorName":"Directed by: Bob Egle",
-          "vidTitle":"Donato's<br />'Move In Day'",
-          "vidAbout":"The challenge in this spot was to show pizza as a welcome respite from the lunacy of moving day. A perfect location, concise script, high-quality VO and glorious food shots come together with Bobs insightful direction to communicate that sometimes, Donatos pizza is the best rewarding end to an exhausting day!",
-          "vidPromoImage":"images/Work_Thumbnails/DonatosMoveIn.jpg",
-          "vidVimeoLink":"http://player.vimeo.com/video/129905602",
-          "vidPageOrder":"2"
-        },
-        {  
-          "directorName":"Directed by: Bob Egle",
-          "vidTitle":"PPG<br />'Pittsburgh Paints'",
-          "vidAbout":"Paint, it's not just for walls anymore.  Or so you might think in this exciting piece Bob directed to express the energy of two classic brands, Devoe and PPG paints, coming together to form one powerhouse brand, PPG Pittsburgh. The Tell team used a Phantom Flex to capture paint at 1200 fps.  And yes, the camera did remain splatter free.",
-          "vidPromoImage":"images/Work_Thumbnails/PPG.jpg",
-          "vidVimeoLink":"http://player.vimeo.com/video/110792279",
-          "vidPageOrder":"3"
-        },
-        {  
-          "directorName":"Directed by: Bob Egle",
-          "vidTitle":"Daikin<br />'The Seeker'",
-          "vidAbout":"To announce the merger of two HVAC brands and inspire excitement at the client's annual sales meeting, Bob utilizes dramatic cinematography techniques as he follows an expertly cast \"Seeker\" from extreme climates - deserts to mountains and cityscapes to rural roads, until he finally finds the ideal cozy environment in a suburban home.",
-          "vidPromoImage":"images/Work_Thumbnails/Daikin.jpg",
-          "vidVimeoLink":"http://player.vimeo.com/video/78224081",
-          "vidPageOrder":"4"
-        },
-        {  
-          "directorName":"Corporate Work",
-          "vidTitle":"Nationwide Children's Hospital<br />'Board'",
-          "vidAbout":"What an honor to be asked to help tell the story of the good work being done at Nationwide Children's Hospital.  Utilizing existing footage in addition to shooting new live action, Tell also brought NCH's logo to life by animating a butterfly throughout this video to create an engaging visual element.",
-          "vidPromoImage":"images/Work_Thumbnails/NationwideChildrensHospital_Board.jpg",
-          "vidVimeoLink":"http://player.vimeo.com/video/129906426",
-          "vidPageOrder":"5"
-        },
-        {
-          "directorName":"Edited by: Beth Edwards",
-          "vidTitle":"Nationwide Children's Hospital<br />'Everyone Matters'",
-          "vidAbout":"Beth's editing skills come to light in this fast-paced internal corporate video. She found magical cut points to integrate many different speakers' statements into a cohesive message with a natural flow.",
-          "vidPromoImage":"images/Work_Thumbnails/NationwideChildrens_Everyone.jpg",
-          "vidVimeoLink":"http://player.vimeo.com/video/130555655",
-          "vidPageOrder":"6"
-        },
-        {  
-          "directorName":"Corporate Work",
-          "vidTitle":"Ohio Dairy Farmers<br />'Farm to Fridge'",
-          "vidAbout":"In a playful yet strategically-designed animation, Tell explains how your favorite dairy products get from the farm to your refrigerator. Cute cows and a jaunty tune help keep the mood light while the serious issue of food safety is addressed.",
-          "vidPromoImage":"images/Work_Thumbnails/OhioDairyFarmers.jpg",
-          "vidVimeoLink":"http://player.vimeo.com/video/127825422",
-          "vidPageOrder":"7"
-        },
-        {  
-          "directorName":"Corporate Work",
-          "vidTitle":"Luxottica<br />'Digital Experience'",
-          "vidAbout":"With a combo of live action and animated graphics, plus brand enhancing music, Tell worked closely with the Luxottica team to shoot and edit this piece resulting in an engaging explanation of a potentially confusing process...from getting an eye exam to fitting frames. ",
-          "vidPromoImage":"images/Work_Thumbnails/Luxoticca_0.jpg",
-          "vidVimeoLink":"http://player.vimeo.com/video/86552531",
-          "vidPageOrder":"8"
-        },
-        {  
-          "directorName":"Directed by: Bob Egle",
-          "vidTitle":"AEP Ohio<br />'Multitasking'",
-          "vidAbout":"How many electronics does a typical teen use at any given moment?  AEP Ohio wants to be there for all their customers' needs.  In this : 30 spot, we see a typical teen in his bedroom and realize just how much he depends on electricity - for daily life, communications, school and yes, gaming!",
-          "vidPromoImage":"images/Work_Thumbnails/AEP_Multitasking.jpg",
-          "vidVimeoLink":"https://player.vimeo.com/video/133666365",
-          "vidPageOrder":"9"
-        },
-        {  
-          "directorName":"Edited by: Lance Moody",
-          "vidTitle":"Dayton Opera<br />'Aida'",
-          "vidAbout":"Lance's visionary animation skills are showcased in this spot as he builds a virtual museum of antiquities and transports us all the way through time into the here and now. A classic piece of music like Aida is hard to improve upon, but we think Lance's visual interpretation adds a lot of zing to an operatic performance.",
-          "vidPromoImage":"images/Work_Thumbnails/DaytonOpera.jpg",
-          "vidVimeoLink":"http://player.vimeo.com/video/128422721",
-          "vidPageOrder":"10"
-        },
-        {  
-          "directorName":"Directed by: Carter Pagel",
-          "vidTitle":"Tarn-X Not What You Think",
-          "vidAbout":"Quirky, uncluttered and quick. This : 30 second spot for Tarn-X derives its humor from ironic dialog and a retro styling vibe. Carter partners closely with his actors to pull off this string of zingers resulting in sheer hilarity.",
-          "vidPromoImage":"images/Work_Thumbnails/TarnX.jpg",
-          "vidVimeoLink":"http://player.vimeo.com/video/128429838",
-          "vidPageOrder":"11"
-        },
-        {  
-          "directorName":"Directed by: Carter Pagel",
-          "vidTitle":"INTEL<br />'UltraBook' Spec",
-          "vidAbout":"This spec spot for Intel is a hilarious example of Carter's penchant for simple storytelling and humorous dialogue. He knows how to milk a funny situation and get the most from his actors.",
-          "vidPromoImage":"images/Work_Thumbnails/tellIntel.jpg",
-          "vidVimeoLink":"http://player.vimeo.com/video/66587903",
-          "vidPageOrder":"12"
-        },
-        {  
-          "directorName":"Directed by: Kevin Willson",
-          "vidTitle":"Doritos<br />'Sling Baby'",
-          "vidAbout":"Kevin's direction not only shows his gift for humorous storytelling, but also his exceptional attention to detail in each and every shot. No wonder this spot was voted #1 for 'Most Liked' and 'Most Remembered' by Nielsen when it aired on the Super Bowl.",
-          "vidPromoImage":"images/Work_Thumbnails/tellSling.jpg",
-          "vidVimeoLink":"http://player.vimeo.com/video/65767078",
-          "vidPageOrder":"13"
-        },
-        {  
-          "directorName":"Directed by: Kevin Willson",
-          "vidTitle":"UPDCP<br />'Bear Traps'",
-          "vidAbout":"Kevin takes a completely unexpected and cleverly comedic approach to the serious message of pharmaceutical abuse.  Take a look at his awesome attention to detail in the art direction and his skillful storytelling in this offbeat spot for the state of Utah.",
-          "vidPromoImage":"images/Work_Thumbnails/tellBear.jpg",
-          "vidVimeoLink":"http://player.vimeo.com/video/65774841",
-          "vidPageOrder":"14"
-        },
-        {  
-          "directorName":"Directed by: Bob Egle",
-          "vidTitle":"South Jersey Hospital<br />'Better Everyday'",
-          "vidAbout":"The challenge of this spot was to capture a glimpse of what makes the South Jersey community tick. Bob did extensive local casting and scouting to find real South Jersey residents whose lives are impacted by the great work done by the hospital.",
-          "vidPromoImage":"images/Work_Thumbnails/Tell01southjersey.jpg",
-          "vidVimeoLink":"http://player.vimeo.com/video/55775122",
-          "vidPageOrder":"15"
-        },
-        {  
-          "directorName":"Directed by: Bob Egle",
-          "vidTitle":"Telhio<br />'Own It: Cathleen'",
-          "vidAbout":"The Tell team worked with Telhio to develop their branding strategy and to create this campaign. In this video, Bob captures a testimonial with an actual customer. Who knew banking was easier when you 'own it?' Cathleen does!",
-          "vidPromoImage":"images/Work_Thumbnails/Telhio.jpg",
-          "vidVimeoLink":"http://player.vimeo.com/video/114389504",
-          "vidPageOrder":"16"
         }
       ]
     }

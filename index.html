@@ -34,6 +34,9 @@
 
           setTimeout(function() {
             $('#director-carousel .hideinall').css('display', 'none');
+            $('#director-carousel').fadeTo(500, 1);
+            console.log('total ' + $('#director-carousel .mask li').size());
+            console.log('visible ' + $('#director-carousel .mask li:visible').size());
           }, 1000);
           
         //$(window).bind('resize', function() {
@@ -83,7 +86,7 @@
               </li>
             </ul>
             <div class="selectedDirector"></div>
-            <div id="director-carousel" class="carousel module" style="margin-top: 30px; clear:both;"></div>
+            <div id="director-carousel" class="carousel module" style="margin-top: 30px; clear:both; opacity: 0"></div>
           </div>
         </div>
         <!-- content panel 2 -->

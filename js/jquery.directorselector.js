@@ -1,6 +1,7 @@
 (function($){
 
 		var evenOrOdd = Math.floor(Math.random()*(2-1+1)+1);
+		console.log(evenOrOdd);
 
     $.directorselector = function(el){
 
@@ -145,6 +146,8 @@
 		);
 
 		$.getJSON('directordata.json', function(data) {
+
+			var listOfMovies = [];
 			
 			$.each(data.directorsArray, function(key, val) {
 	
@@ -187,38 +190,50 @@
 
 				var movit = 0;
 
-					$.each(val.directorVids, function(key1, val1) {
-						
-						// If landing page, only show the 'even' videos if
-						// the evenOrOdd variable is set to even and vice versa
-						if(val.directorName == 'Landing Page' && (evenOrOdd == 1 && !isOdd(val1.vidPageOrder)) || (evenOrOdd == 2 && isOdd(val1.vidPageOrder))) {
-							movit++; return;
-						}
+				$.each(val.directorVids, function(key1, val1) {
+					
+					// If landing page, only show the 'even' videos if
+					// the evenOrOdd variable is set to even and vice versa
+					if(val.directorName == 'Landing Page' && 
+						((evenOrOdd == 1 && !isOdd(val1.vidPageOrder)) || (evenOrOdd == 2 && isOdd(val1.vidPageOrder)))) {
+						//console.log(val.directorName + ' ' + val1.vidPageOrder);
+						listOfMovies.push(val1.vidTitle);
+						movit++; return;
+					}
 
-						var hideInAll = '<li>';
-						if(val1.hideInAll) {
-							var hideInAll = '<li class="hideinall">';
-						}
+					var liTag   = '<li>';
 
-						if(typeof val1.directorName !== "undefined"){
-							var director = val1.directorName;
-						} else {
-							var director = val.directorName;
-						}
-	                                       
-	                                       movies.push({'key': val1.vidPageOrder, 'value': hideInAll + '<div class="hoverEffect" id="mov_' + it + "_" + movit + '"><div class="hoverTitle">'+val1.vidTitle+'</div><span>'+ director + '</span></div><img class="vidPromoImg" src="'+val1.vidPromoImage+'" /></li>'});
+					/*if(val1.hideInAll) {
+						var liTag = '<li class="hideinall">';
+					}*/
 
-						movit++;
+					if(listOfMovies.indexOf(val1.vidTitle) === -1) {
+						listOfMovies.push(val1.vidTitle);
+					} else {
+						liTag = '<li class="hideinall">';
+					}
 
-			});
+					//console.log(listOfMovies);
+
+					if(typeof val1.directorName !== "undefined"){
+						var director = val1.directorName;
+					} else {
+						var director = val.directorName;
+					}
+                                       
+          movies.push({'key': val1.vidPageOrder, 'value': liTag + '<div class="hoverEffect" id="mov_' + it + "_" + movit + '"><div class="hoverTitle">'+val1.vidTitle+'</div><span>'+ director + '</span></div><img class="vidPromoImg" src="'+val1.vidPromoImage+'" /></li>'});
+
+					movit++;
+
+				});
 				
 			});
 			
 			//movies.sort(function(a,b) { return parseFloat(a.key) - parseFloat(b.key) } );
 
 			// Randomly sort the first 8, then display the rest in order.
-			var landingPage = shuffle(movies.slice(-8));
-			movies          = $.merge(landingPage.slice(-8), movies.slice(0, movies.length - 8));
+			var landingPage = shuffle(movies.slice(0,16));
+			movies          = $.merge(movies.slice(0, movies.length - 8), landingPage.slice(0,8));
 			var movieList = [];	
 			 $.each(movies, function(c, d) {
                                movieList.push(d.value);
@@ -408,26 +423,22 @@
     
     $.fn.directorselector.loadAllVids = function(){
 
-		$('.selectedDirector').fadeOut(500);
-	
+			$('.selectedDirector').fadeOut(500);
     	$('#director-carousel').fadeOut( 600, function(){
     	
-    	var it = 0;
-    	var movies = [];
-		
-		
-		$('.mask li').each(function(index) {
-
-				if(!$(this).hasClass('hideinall')) {
-					$(this).css("display","block");
-				} else {
-					$(this).css("display","none");
-				}
+	    	var it = 0;
+	    	var movies = [];
+			
+				$('.mask li').each(function(index) {
+					if($(this).hasClass('hideinall')) {
+						$(this).css('display', 'none');
+					} else {
+						$(this).css('display', 'block');
+					}
+				});
 				
-		});
-		
-		//$('.pagination-links').show();
-		}).delay(300).fadeIn(500);    	
+				//$('.pagination-links').show();
+			}).delay(300).fadeIn(500);    	
     	
     }
 

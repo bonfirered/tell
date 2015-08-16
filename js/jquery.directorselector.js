@@ -197,7 +197,7 @@
 					if(val.directorName == 'Landing Page' && 
 						((evenOrOdd == 1 && !isOdd(val1.vidPageOrder)) || (evenOrOdd == 2 && isOdd(val1.vidPageOrder)))) {
 						//console.log(val.directorName + ' ' + val1.vidPageOrder);
-						listOfMovies.push(val1.vidTitle);
+						//listOfMovies.push(val1.vidTitle);
 						movit++; return;
 					}
 
@@ -233,6 +233,7 @@
 			//movies.sort(function(a,b) { return parseFloat(a.key) - parseFloat(b.key) } );
 
 			// Randomly sort the first 8, then display the rest in order.
+			console.log(listOfMovies.length);
 			console.log(movies.length);
 			var landingPage = shuffle(movies.slice(0,8));
 			//movies          = $.merge(landingPage.slice(0,8), movies.slice(16, movies.length));

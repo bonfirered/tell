@@ -267,7 +267,7 @@
 				
 				$.fn.directorselector.loadVidVals($(this).attr('id'));
 
-				if($(this).attr('id').indexOf('mov_1') == 0 ) {
+				if($(this).attr('id').indexOf('mov_2') == 0 ) {
 					$('body').attr('class', 'corporate-work');
 				} else {
 					$('body').removeAttr('class');

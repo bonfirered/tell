@@ -1,7 +1,7 @@
 (function($){
 
 		var evenOrOdd = Math.floor(Math.random()*(2-1+1)+1);
-		console.log(evenOrOdd);
+		//console.log(evenOrOdd);
 
     $.directorselector = function(el){
 
@@ -210,7 +210,7 @@
 					if(listOfMovies.indexOf(val1.vidTitle) === -1) {
 						listOfMovies.push(val1.vidTitle);
 					} else {
-						console.log('duplicate!');
+						//console.log('duplicate!');
 						liTag = '<li class="hideinall">';
 					}
 
@@ -233,8 +233,8 @@
 			//movies.sort(function(a,b) { return parseFloat(a.key) - parseFloat(b.key) } );
 
 			// Randomly sort the first 8, then display the rest in order.
-			console.log(listOfMovies.length);
-			console.log(movies.length);
+			//console.log(listOfMovies.length);
+			//console.log(movies.length);
 			var landingPage = shuffle(movies.slice(0,8));
 			//movies          = $.merge(landingPage.slice(0,8), movies.slice(16, movies.length));
 			movies          = $.merge(landingPage, movies.slice(8, movies.length));
@@ -406,9 +406,9 @@
 			
 				var obj = $('.mask li .hoverEffect')[index];
 
-				console.log($(obj).attr("id"));
+				/*console.log($(obj).attr("id"));
 				console.log($(obj).attr("id").split("_")[1]);
-				console.log((parseInt(arrayLoc) + 1));
+				console.log((parseInt(arrayLoc) + 1));*/
 				
 				if ($(obj).attr("id").split("_")[1] != (parseInt(arrayLoc) + 1))
 				{

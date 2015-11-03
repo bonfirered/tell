@@ -927,6 +927,14 @@ a.showAllDirs:hover {
 	
 }
 
+#page4 .newsEnrollBlock .enrollText a{
+	text-decoration: none;
+	font-family: "HelveticaNeueHeavy", "HelveticaNeue-Heavy", "Helvetica Neue Heavy", "HelveticaNeue", "Helvetica Neue", "TeXGyreHerosBold", "Arial Black", sans-serif; font-weight:700; font-stretch:normal;
+	color: #404041;
+	padding: 24px 269px 26px 24px;
+	position: absolute;
+}
+
 #page4 .newsEnrollBlock .enrollText:hover{
 
 	-moz-box-shadow: 0px 0px 11px -2px #B7B7B7;

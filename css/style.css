@@ -379,6 +379,7 @@ h2{
 }
 
 #previewTitle{
+	width: 110% !important;
 	margin-top: 100px;
 	text-align: center;
 	font-size: 26px;

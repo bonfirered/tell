@@ -247,7 +247,8 @@
           "vidTitle":"Daikin<br />'The Seeker'",
           "vidAbout":"To announce the merger of two HVAC brands and inspire excitement at the client's annual sales meeting, Bob utilizes dramatic cinematography techniques as he follows an expertly cast 'Seeker' from extreme climates - deserts to mountains and cityscapes to rural roads, until he finally finds the ideal cozy environment in a suburban home.",
           "vidPromoImage":"images/Work_Thumbnails/Daikin.jpg",
-          "vidVimeoLink":"http://player.vimeo.com/video/78224081"
+          "vidVimeoLink":"http://player.vimeo.com/video/78224081",
+          "hideInAll":true
         },
         {
           "vidTitle":"Nationwide Children's Hospital<br />'Holiday 2016'",
